@@ -4,8 +4,14 @@ All good stuff around the world.
 
 * Software
 ** IDE and Editor
+*** VS Code
+*** PyCharm
+*** CodeLite
+- [[https://shortcutworld.com/CodeLite/win/CodeLite_10_Shortcuts][107 Shortcuts for CodeLite 10]]
 ** Programming Languages
-** Repositories
+*** Python
+- [[https://www.pythoncentral.io/][Python Programming Guides and Tutorials]]
+** Repositories(github.com)
 *** Go
 **** niyumard
 - [[https://github.com/niyumard/gobyexample][Go by Examples]]
@@ -13,7 +19,9 @@ All good stuff around the world.
 **** quii
 - [[https://github.com/quii/learn-go-with-tests][Learn Go with Tests(original)]]
 *** Python
+
 *** Emacs
+**** niyumard
 - [[https://github.com/niyumard/Doom-Emacs-Cheat-Sheet][Doom Emacs Cheatsheet]]
 *** C
 *** C++
