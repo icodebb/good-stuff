@@ -3,7 +3,21 @@
 All good stuff around the world.
 
 * Software
-
+** IDE and Editor
+** Programming Languages
+** Repositories
+*** Go
+**** niyumard
+- [[https://github.com/niyumard/gobyexample][Go by Examples]]
+- [[https://github.com/niyumard/learn-go-with-tests][Learn Go with Tests]](forked)
+**** quii
+- [[https://github.com/quii/learn-go-with-tests][Learn Go with Tests(original)]]
+*** Python
+*** Emacs
+- [[https://github.com/niyumard/Doom-Emacs-Cheat-Sheet][Doom Emacs Cheatsheet]]
+*** C
+*** C++
+*** Shell
 * Firmware
 
 * Hardware
