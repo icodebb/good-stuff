@@ -23,6 +23,8 @@ All good stuff around the world.
 *** Emacs
 **** niyumard
 - [[https://github.com/niyumard/Doom-Emacs-Cheat-Sheet][Doom Emacs Cheatsheet]]
+**** james-stoup
+- [[https://github.com/james-stoup/emacs-org-mode-tutorial/tree/main][Emacs Org Mode Tutorial]]
 *** C
 *** C++
 *** Shell
