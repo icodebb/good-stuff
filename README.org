@@ -8,9 +8,11 @@ All good stuff around the world.
 *** PyCharm
 *** CodeLite
 - [[https://shortcutworld.com/CodeLite/win/CodeLite_10_Shortcuts][107 Shortcuts for CodeLite 10]]
+
 ** Programming Languages
 *** Python
 - [[https://www.pythoncentral.io/][Python Programming Guides and Tutorials]]
+
 ** Repositories(github.com)
 *** Go
 **** niyumard
@@ -18,6 +20,7 @@ All good stuff around the world.
 - [[https://github.com/niyumard/learn-go-with-tests][Learn Go with Tests]](forked)
 **** quii
 - [[https://github.com/quii/learn-go-with-tests][Learn Go with Tests(original)]]
+
 *** Python
 
 *** Emacs
@@ -25,11 +28,18 @@ All good stuff around the world.
 - [[https://github.com/niyumard/Doom-Emacs-Cheat-Sheet][Doom Emacs Cheatsheet]]
 **** james-stoup
 - [[https://github.com/james-stoup/emacs-org-mode-tutorial/tree/main][Emacs Org Mode Tutorial]]
+
 *** C
+
 *** C++
+
 *** Shell
+
 * Firmware
 
 * Hardware
+
+* Utilities
++ [[https://www.rapidtables.com/web/color/RGB_Color.html][RGB Color Codes Chart]]
 
 * Others
