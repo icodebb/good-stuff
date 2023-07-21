@@ -5,6 +5,8 @@ All good stuff around the world.
 * Software
 ** IDE and Editor
 *** VS Code
+**** Extensions
+- [[https://microsoft.github.io/vscode-codicons/dist/codicon.html][Todo Tree codicon]] useful for work, e.g. "icon": "$(bell-slash)" for BLOCKED.
 *** PyCharm
 *** CodeLite
 - [[https://shortcutworld.com/CodeLite/win/CodeLite_10_Shortcuts][107 Shortcuts for CodeLite 10]]
