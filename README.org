@@ -15,6 +15,8 @@ All good stuff around the world.
 
 ** Repositories(github.com)
 *** Go
+**** Documentation
+- [[https://go.dev/doc/code][How to Write Go Code]]
 **** niyumard
 - [[https://github.com/niyumard/gobyexample][Go by Examples]]
 - [[https://github.com/niyumard/learn-go-with-tests][Learn Go with Tests]](forked)
