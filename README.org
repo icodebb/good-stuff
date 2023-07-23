@@ -34,8 +34,9 @@ All good stuff around the world.
 - [[https://github.com/james-stoup/emacs-org-mode-tutorial/tree/main][Emacs Org Mode Tutorial]]
 **** Emacs from Scratch
 - [[https://github.com/daviwil/emacs-from-scratch][Emacs from Scratch]]
-- [[https://github.com/daviwil/emacs-from-scratch/blob/master/show-notes/Emacs-Tips-04.org][How to Give Presentations with Org Mode]]
-- [[https://www.youtube.com/watch?v=vz9aLmxYJB0][YouTube: How to Give Presentations with Org Mode]]
+  - [[https://github.com/daviwil/emacs-from-scratch/blob/master/show-notes/Emacs-Tips-04.org][How to Give Presentations with Org Mode]]
+  - [[https://www.youtube.com/watch?v=vz9aLmxYJB0][YouTube: How to Give Presentations with Org Mode]]
+  - [[https://github.com/takaxp/org-tree-slide][org-tree-slide repo]]
 
 *** C
 
