@@ -37,6 +37,8 @@ All good stuff around the world.
   - [[https://github.com/daviwil/emacs-from-scratch/blob/master/show-notes/Emacs-Tips-04.org][How to Give Presentations with Org Mode]]
   - [[https://www.youtube.com/watch?v=vz9aLmxYJB0][YouTube: How to Give Presentations with Org Mode]]
   - [[https://github.com/takaxp/org-tree-slide][org-tree-slide repo]]
+****  Chemacs2
+[[https://github.com/plexus/chemacs2][Chemacs 2 is an Emacs profile switcher, it makes it easy to run multiple Emacs configurations side by side.]]
 
 *** C
 
@@ -54,5 +56,7 @@ All good stuff around the world.
 
 * Utilities
 + [[https://www.rapidtables.com/web/color/RGB_Color.html][RGB Color Codes Chart]]
++ [[https://gist.github.com/ivandrofly/0fe20773bd712b303f78][Unicode table]]
++ [[https://en.wikipedia.org/wiki/List_of_Unicode_characters][List of Unicode Characters on Wikipedia]]
 
 * Others
