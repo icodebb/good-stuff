@@ -56,7 +56,9 @@ All good stuff around the world.
 
 * Utilities
 + [[https://www.rapidtables.com/web/color/RGB_Color.html][RGB Color Codes Chart]]
-+ [[https://gist.github.com/ivandrofly/0fe20773bd712b303f78][Unicode table]]
-+ [[https://en.wikipedia.org/wiki/List_of_Unicode_characters][List of Unicode Characters on Wikipedia]]
++ Unicode
+  + [[https://gist.github.com/ivandrofly/0fe20773bd712b303f78][Unicode table]]
+  + [[https://en.wikipedia.org/wiki/List_of_Unicode_characters][List of Unicode Characters on Wikipedia]]
+  + [[https://www.vertex42.com/ExcelTips/unicode-symbols.html][Huge List of Unicode Symbols]]
 
 * Others
