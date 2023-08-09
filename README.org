@@ -60,5 +60,7 @@ All good stuff around the world.
   + [[https://gist.github.com/ivandrofly/0fe20773bd712b303f78][Unicode table]]
   + [[https://en.wikipedia.org/wiki/List_of_Unicode_characters][List of Unicode Characters on Wikipedia]]
   + [[https://www.vertex42.com/ExcelTips/unicode-symbols.html][Huge List of Unicode Symbols]]
-
++ Fonts
+  + [[https://www.nerdfonts.com/font-downloads][Nerd Fonts Download]]
+    My favorite is SpaceMono.
 * Others
