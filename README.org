@@ -43,6 +43,10 @@ All good stuff around the world.
 *** Web
 - [[https://khan.github.io/Font-Awesome/][Font Awesome]] gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 
+** Tools
+*** Browsers
+- =Nyxt= [[https://nyxt.atlas.engineer/][Nyxt]] is is fully hackable- all of its source code can be introspected, modified, and tweaked to your exact specification.
+
 * Firmware
 
 * Hardware
