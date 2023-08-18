@@ -10,6 +10,8 @@ All good stuff around the world.
 *** PyCharm
 *** CodeLite
 - [[https://shortcutworld.com/CodeLite/win/CodeLite_10_Shortcuts][107 Shortcuts for CodeLite 10]]
+*** Neovim
+- [[https://hannadrehman.com/top-neovim-plugins-for-developers-in-2022][Top Neovim plugins for developers in 2022]]
 
 ** Programming Languages
 *** Python
