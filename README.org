@@ -10,6 +10,8 @@ All good stuff around the world.
 *** PyCharm
 *** CodeLite
 - [[https://shortcutworld.com/CodeLite/win/CodeLite_10_Shortcuts][107 Shortcuts for CodeLite 10]]
+*** Neovim
+- [[https://hannadrehman.com/top-neovim-plugins-for-developers-in-2022][Top Neovim plugins for developers in 2022]]
 
 ** Programming Languages
 *** Python
@@ -50,6 +52,13 @@ All good stuff around the world.
 *** Web
 - [[https://khan.github.io/Font-Awesome/][Font Awesome]] gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 
+** Tools
+*** Browsers
+- =Nyxt= [[https://nyxt.atlas.engineer/][Nyxt]] is is fully hackable- all of its source code can be introspected, modified, and tweaked to your exact specification.
+
+** Docker
+- [[ https://github.com/docker/doodle.git][docker/doodle]]
+
 * Firmware
 
 * Hardware
@@ -62,5 +71,7 @@ All good stuff around the world.
   + [[https://www.vertex42.com/ExcelTips/unicode-symbols.html][Huge List of Unicode Symbols]]
 + ASCIIDOC
   + [[https://kate-editor.org/syntax/data/html/asciidoc.adoc.html][AsciiDoc Syntax Highlighting]]
-
++ Fonts
+  + [[https://www.nerdfonts.com/font-downloads][Nerd Fonts Download]]
+    My favorite is SpaceMono.
 * Others
