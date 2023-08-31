@@ -54,10 +54,14 @@ All good stuff around the world.
 
 ** Tools
 *** Browsers
-- =Nyxt= [[https://nyxt.atlas.engineer/][Nyxt]] is is fully hackable- all of its source code can be introspected, modified, and tweaked to your exact specification.
+- =Nyxt= [[https://nyxt.atlas.engineer/][Nyxt]] is fully hackable- all of its source code can be introspected, modified, and tweaked to your exact specification.
 
 ** Docker
 - [[ https://github.com/docker/doodle.git][docker/doodle]]
+
+** Version Control
+- GitLab/GitHub
+  [[https://gist.github.com/rxaviers/7360908][Complete list of github markdown emoji markup]]
 
 * Firmware
 
