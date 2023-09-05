@@ -16,6 +16,8 @@ All good stuff around the world.
 ** Programming Languages
 *** Python
 - [[https://www.pythoncentral.io/][Python Programming Guides and Tutorials]]
+*** Go
+- [[https://buf.build/docs/bsr/introduction][BSR(Buf Schema Registry)]]
 
 ** Repositories(github.com)
 *** Go
