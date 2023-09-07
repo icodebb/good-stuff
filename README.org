@@ -7,6 +7,9 @@ All good stuff around the world.
 *** VS Code
 **** Extensions
 - [[https://microsoft.github.io/vscode-codicons/dist/codicon.html][Todo Tree codicon]] useful for work, e.g. "icon": "$(bell-slash)" for BLOCKED.
+*** AsciidocFX
+- Great for Diagrams.
+- Good NOTE flags.
 *** PyCharm
 *** CodeLite
 - [[https://shortcutworld.com/CodeLite/win/CodeLite_10_Shortcuts][107 Shortcuts for CodeLite 10]]
@@ -80,4 +83,6 @@ All good stuff around the world.
 + Fonts
   + [[https://www.nerdfonts.com/font-downloads][Nerd Fonts Download]]
     My favorite is SpaceMono.
++ Diagrams
+  + [[https://kroki.io/examples.html][Kroki - Creates diagrams from textual descriptions!]]
 * Others
