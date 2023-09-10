@@ -1,6 +1,7 @@
 #+TITLE Good Stuff
 
-All good stuff around the world.
+All good stuff.  
+Thanks for the great work.
 
 * Software
 
@@ -92,4 +93,5 @@ All good stuff around the world.
     My favorite is SpaceMono.
 + Diagrams
   + [[https://kroki.io/examples.html][Kroki - Creates diagrams from textual descriptions!]]
+  + [[https://tomgregory.com/using-plantuml-for-digrams-in-a-gitlab-wiki/][Using PlantUML For Diagrams In A GitLab Wiki]]
 * Others
