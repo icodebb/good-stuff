@@ -86,6 +86,7 @@ All good stuff around the world.
   + [[https://www.vertex42.com/ExcelTips/unicode-symbols.html][Huge List of Unicode Symbols]]
 + ASCIIDOC
   + [[https://kate-editor.org/syntax/data/html/asciidoc.adoc.html][AsciiDoc Syntax Highlighting]]
+  + [[https://plantuml.com/sequence-diagram][Sequence Diagrams]]
 + Fonts
   + [[https://www.nerdfonts.com/font-downloads][Nerd Fonts Download]]
     My favorite is SpaceMono.
