@@ -19,10 +19,14 @@ Thanks for the great work.
 - [[https://hannadrehman.com/top-neovim-plugins-for-developers-in-2022][Top Neovim plugins for developers in 2022]]
 
 ** Programming Languages
+*** General
+- [[https://pegasuswang.readthedocs.io/zh/latest/][PegasusWang 的读书杂记]]
+  +
 *** Python
 - [[https://www.pythoncentral.io/][Python Programming Guides and Tutorials]]
 *** Go
 - [[https://buf.build/docs/bsr/introduction][BSR(Buf Schema Registry)]]
+- [[https://github.com/yougg/gonote/blob/main/gogrammar.md][Google Go语言 golang 语法详解笔记]]
 
 ** Repositories(github.com)
 *** Go
@@ -58,7 +62,7 @@ Thanks for the great work.
 
 *** Web
 - [[https://khan.github.io/Font-Awesome/][Font Awesome]] gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
-
+https://github.com/yougg/gonote/blob/main/gogrammar.md
 ** Tools
 
 *** Browsers
