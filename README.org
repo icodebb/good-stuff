@@ -85,6 +85,7 @@ https://github.com/yougg/gonote/blob/main/gogrammar.md
 + [[https://www.rapidtables.com/web/color/RGB_Color.html][RGB Color Codes Chart]]
 + SSH Clients
   - mRemoteNG: Multi-Remote Next Generation Connection Manager
+  - SupperPuTTY
 + Unicode
   + [[https://gist.github.com/ivandrofly/0fe20773bd712b303f78][Unicode table]]
   + [[https://en.wikipedia.org/wiki/List_of_Unicode_characters][List of Unicode Characters on Wikipedia]]
