@@ -66,9 +66,8 @@ Thanks for the great work.
 - [[https://khan.github.io/Font-Awesome/][Font Awesome]] gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 https://github.com/yougg/gonote/blob/main/gogrammar.md
 ** Tools
-
-*** Browsers
-- =Nyxt= [[https://nyxt.atlas.engineer/][Nyxt]] is fully hackable- all of its source code can be introspected, modified, and tweaked to your exact specification.
+*** TBC
+- .
 
 ** Docker
 - [[ https://github.com/docker/doodle.git][docker/doodle]]
@@ -86,6 +85,8 @@ https://github.com/yougg/gonote/blob/main/gogrammar.md
 + SSH Clients
   - mRemoteNG: Multi-Remote Next Generation Connection Manager
   - SupperPuTTY
++ Browsers
+  - =Nyxt= [[https://nyxt.atlas.engineer/][Nyxt]] is fully hackable- all of its source code can be introspected, modified, and tweaked to your exact specification.
 + Unicode
   + [[https://gist.github.com/ivandrofly/0fe20773bd712b303f78][Unicode table]]
   + [[https://en.wikipedia.org/wiki/List_of_Unicode_characters][List of Unicode Characters on Wikipedia]]
