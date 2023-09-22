@@ -70,6 +70,9 @@ Thanks for the great work.
 https://github.com/yougg/gonote/blob/main/gogrammar.md
 *** [[https://github.com/rajasegar/awesome-htmx][Awesome HTMX]]
 
+*** Utils
+- [[https://github.com/asciidoctor/asciidoctor-reveal.js/][Reveal.js converter for Asciidoctor]]
+
 ** Tools
 *** TBC
 - .
