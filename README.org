@@ -68,13 +68,15 @@ Thanks for the great work.
 *** Web
 - [[https://khan.github.io/Font-Awesome/][Font Awesome]] gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 https://github.com/yougg/gonote/blob/main/gogrammar.md
+
 *** [[https://github.com/rajasegar/awesome-htmx][Awesome HTMX]]
 
 *** Utils
 - [[https://github.com/asciidoctor/asciidoctor-reveal.js/][Reveal.js converter for Asciidoctor]]
+- [[https://github.com/bodiam/awesome-asciidoc][bodiam/awesome-asciidoc]]
 
 ** Tools
-*** TBC
+*** TBD
 - .
 
 ** Docker
