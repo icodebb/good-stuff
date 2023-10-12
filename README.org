@@ -30,6 +30,8 @@ Thanks for the great work.
 *** Go
 - [[https://buf.build/docs/bsr/introduction][BSR(Buf Schema Registry)]]
 - [[https://github.com/yougg/gonote/blob/main/gogrammar.md][Google Go语言 golang 语法详解笔记]]
+- [[https://tinygo.org/][TinyGo - A Go Compiler For Small Places]]
+- [[https://www.youtube.com/watch?v=75VGzwtmgXc][YouTube: an 8-bit microcontroller but it has a garbage collector]]
 
 ** Repositories(github.com)
 *** Go
@@ -67,7 +69,8 @@ Thanks for the great work.
 
 *** Web
 - [[https://khan.github.io/Font-Awesome/][Font Awesome]] gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
-https://github.com/yougg/gonote/blob/main/gogrammar.md
+- [[https://github.com/mbasso/awesome-wasm][Awesome Wasm]] Collection of awesome things regarding WebAssembly (wasm) ecosystem.
+- https://github.com/yougg/gonote/blob/main/gogrammar.md
 
 *** [[https://github.com/rajasegar/awesome-htmx][Awesome HTMX]]
 
