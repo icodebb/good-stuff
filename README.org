@@ -24,6 +24,7 @@ Thanks for the great work.
 *** General
 - [[https://pegasuswang.readthedocs.io/zh/latest/][PegasusWang 的读书杂记]]
   + TBD
+- [[https://happycodings.com/][Happy Codings]]
 *** Python
 - [[https://www.pythoncentral.io/][Python Programming Guides and Tutorials]]
 - [[https://ehmatthes.github.io/pcc/cheatsheets/README.html][Resources for Python Crash Course (1st edition), from No Starch Press]]
