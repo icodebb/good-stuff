@@ -33,6 +33,7 @@ Thanks for the great work.
 - [[https://www.youtube.com/watch?v=75VGzwtmgXc][YouTube: an 8-bit microcontroller but it has a garbage collector]]
 
 ** Repositories(github.com)
+
 *** Go
 **** Documentation
 - [[https://go.dev/doc/code][How to Write Go Code]]
@@ -77,6 +78,9 @@ Thanks for the great work.
 - [[https://github.com/asciidoctor/asciidoctor-reveal.js/][Reveal.js converter for Asciidoctor]]
 - [[https://github.com/bodiam/awesome-asciidoc][bodiam/awesome-asciidoc]]
 
+*** Hacking
+- [[https://github.com/vanhauser-thc][The Hacker's Choice]]
+
 ** Tools
 *** TBD
 - .
@@ -114,4 +118,9 @@ Thanks for the great work.
   + [[https://tomgregory.com/using-plantuml-for-digrams-in-a-gitlab-wiki/][Using PlantUML For Diagrams In A GitLab Wiki]]
   + [[https://www.planttext.com][PlantText - The expert's design tool]]
   + [[https://crashedmind.github.io/PlantUMLHitchhikersGuide][The Hitchhiker's Guide to PlanUML]]
+
 * Others
+
+** Hacking
+- [[https://www.thc.org/][The Hacker's Choice]]
+  + [[https://www.thc.org/segfault/][Segfault]]
