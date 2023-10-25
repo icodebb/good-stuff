@@ -95,7 +95,8 @@ Thanks for the great work.
 * Embedded
 ** RTOS
 - [[https://realtimelogic.com/][RealTimeLogic]] \\
-  Real Time Logic is an IoT security and web-enablement specialist helping customers develop world class products. 
+  Real Time Logic is an IoT security and web-enablement specialist helping customers develop world class products.  
+  [[https://github.com/RealTimeLogic][Repo on GitHub]]
 
 * Hardware
 
