@@ -78,7 +78,7 @@ Thanks for the great work.
 - [[https://github.com/asciidoctor/asciidoctor-reveal.js/][Reveal.js converter for Asciidoctor]]
 - [[https://github.com/bodiam/awesome-asciidoc][bodiam/awesome-asciidoc]]
 
-*** Hacking
+** Hacking
 - [[https://github.com/vanhauser-thc][The Hacker's Choice]]
 
 ** Tools
@@ -92,7 +92,10 @@ Thanks for the great work.
 - GitLab/GitHub
   [[https://gist.github.com/rxaviers/7360908][Complete list of github markdown emoji markup]]
 
-* Firmware
+* Embedded
+** RTOS
+- [[https://realtimelogic.com/][RealTimeLogic]] \\
+  Real Time Logic is an IoT security and web-enablement specialist helping customers develop world class products. 
 
 * Hardware
 
