@@ -42,7 +42,7 @@ Thanks for the great work.
 
 ==== General
 * https://pegasuswang.readthedocs.io/zh/latest/[PegasusWang 的读书杂记]
-  **TBD
+** TBD 
 * https://happycodings.com/[Happy Codings]
 
 ==== Python
@@ -131,7 +131,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 == Embedded
 
 === RTOS
-*  https://realtimelogic.com/[RealTimeLogic] \\
+*  https://realtimelogic.com/[RealTimeLogic] +
   Real Time Logic is an IoT security and web-enablement specialist helping customers develop world class products.  
    https://github.com/RealTimeLogic[Repo on GitHub]
 
@@ -143,7 +143,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
   ** mRemoteNG: Multi-Remote Next Generation Connection Manager
   ** SupperPuTTY
 * Browsers
-  ** =Nyxt=  https://nyxt.atlas.engineer/[Nyxt] is fully hackable- all of its source code can be introspected, modified, and tweaked to your exact specification.
+  ** `Nyxt` https://nyxt.atlas.engineer/[Nyxt] is fully hackable- all of its source code can be introspected, modified, and tweaked to your exact specification.
 * Unicode
   ** https://gist.github.com/ivandrofly/0fe20773bd712b303f78[Unicode table]
   ** https://en.wikipedia.org/wiki/List_of_Unicode_characters[List of Unicode Characters on Wikipedia]
