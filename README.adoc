@@ -104,7 +104,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
     *** Styling columns and cells in table.
     *** Using tab separated data in a table.
   ** Blocks
-    *** Wrapp or not
+    *** Wrap or not
     *** Collapsible content
   ** List
     *** Change start number
@@ -159,3 +159,6 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
   ** https://tomgregory.com/using-plantuml-for-digrams-in-a-gitlab-wiki/[Using PlantUML For Diagrams In A GitLab Wiki]
   ** https://www.planttext.com[PlantText - The expert's design tool]
   ** https://crashedmind.github.io/PlantUMLHitchhikersGuide[The Hitchhiker's Guide to PlanUML]
+* Linux
+  ** Console Tools
+    *** https://www.youtube.com/watch?v=ZNNqkeeOdrk&t=12s[YouTube: 7 Awesome Linux Terminal Utilities]
