@@ -142,6 +142,8 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 * SSH Clients
   ** mRemoteNG: Multi-Remote Next Generation Connection Manager
   ** SupperPuTTY
+* curl
+  ** https://everything.curl.dev/internals[Everything curl]
 * Browsers
   ** `Nyxt` https://nyxt.atlas.engineer/[Nyxt] is fully hackable- all of its source code can be introspected, modified, and tweaked to your exact specification.
 * Unicode
