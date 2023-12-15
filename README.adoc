@@ -47,6 +47,7 @@ Thanks for the great work.
 
 ==== C
 * Awesome C
+  ** https://notabug.org/mazurov/awesome-c[mazurov/awesome-c]
   ** https://github.com/oz123/awesome-c[oz123/awesome-c]
   ** https://github.com/uhub/awesome-c[uhub/awesome-c]
   ** https://notabug.org/bfgeshka/awesome-c[bfgeshka/awesome-c]
