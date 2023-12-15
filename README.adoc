@@ -45,6 +45,12 @@ Thanks for the great work.
 ** TBD 
 * https://happycodings.com/[Happy Codings]
 
+==== C
+* Awesome C
+  ** https://github.com/oz123/awesome-c[oz123/awesome-c]
+  ** https://github.com/uhub/awesome-c[uhub/awesome-c]
+  ** https://notabug.org/bfgeshka/awesome-c[bfgeshka/awesome-c]
+
 ==== Python
 *  https://www.pythoncentral.io/[Python Programming Guides and Tutorials]
 *  https://ehmatthes.github.io/pcc/cheatsheets/README.html[Resources for Python Crash Course (1st edition), from No Starch Press]
