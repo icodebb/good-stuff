@@ -46,11 +46,15 @@ Thanks for the great work.
 * https://happycodings.com/[Happy Codings]
 
 ==== C
-* Awesome C
-  ** https://notabug.org/mazurov/awesome-c[mazurov/awesome-c]
-  ** https://github.com/oz123/awesome-c[oz123/awesome-c]
-  ** https://github.com/uhub/awesome-c[uhub/awesome-c]
-  ** https://notabug.org/bfgeshka/awesome-c[bfgeshka/awesome-c]
+===== Awesome C
+  * https://notabug.org/mazurov/awesome-c[mazurov/awesome-c]
+  * https://github.com/oz123/awesome-c[oz123/awesome-c]
+  * https://github.com/uhub/awesome-c[uhub/awesome-c]
+  * https://notabug.org/bfgeshka/awesome-c[bfgeshka/awesome-c]
+
+===== TutorialsPoint
+  * https://www.tutorialspoint.com/c_standard_library/index.htm[C Standard Library]
+  * https://www.tutorialspoint.com/cprogramming/index.htm[C Programming Tutorial]
 
 ==== Python
 *  https://www.pythoncentral.io/[Python Programming Guides and Tutorials]
