@@ -175,3 +175,12 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 * Linux
   ** Console Tools
     *** https://www.youtube.com/watch?v=ZNNqkeeOdrk&t=12s[YouTube: 7 Awesome Linux Terminal Utilities]
+* REST API
+  ** https://dev.to/ruppysuppy/7-free-public-apis-you-will-love-as-a-developer-166p[7 Free Public APIs you will love as a developer]
+    *** JSON Placeholder
+    *** Google Translate
+    *** Open Weather Map
+    *** REST Countries
+    *** IP API
+    *** Random Data API
+    *** The Pokemon API
