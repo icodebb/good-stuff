@@ -104,6 +104,8 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 *  https://github.com/mbasso/awesome-wasm[Awesome Wasm] Collection of awesome things regarding WebAssembly (wasm) ecosystem.
 * https://github.com/yougg/gonote/blob/main/gogrammar.md
 
+==== https://github.com/facundofarias/awesome-websockets[Awesome WebSockets]
+
 ====  https://github.com/rajasegar/awesome-htmx[Awesome HTMX]
 
 ==== Utils
