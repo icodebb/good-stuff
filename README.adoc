@@ -103,6 +103,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 *  https://khan.github.io/Font-Awesome/[Font Awesome] gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 *  https://github.com/mbasso/awesome-wasm[Awesome Wasm] Collection of awesome things regarding WebAssembly (wasm) ecosystem.
 * https://github.com/yougg/gonote/blob/main/gogrammar.md
+* https://nchan.io/[NCHAN] is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server.
 
 ==== https://github.com/facundofarias/awesome-websockets[Awesome WebSockets]
 
