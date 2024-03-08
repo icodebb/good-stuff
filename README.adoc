@@ -152,6 +152,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 == Hardware
 
 == Utilities
+* https://quickref.me/[QuickRef.ME]
 *  https://www.rapidtables.com/web/color/RGB_Color.html[RGB Color Codes Chart]
 * SSH Clients
   ** mRemoteNG: Multi-Remote Next Generation Connection Manager
