@@ -140,7 +140,10 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 
 === Version Control
 * GitLab/GitHub
-   https://gist.github.com/rxaviers/7360908[Complete list of github markdown emoji markup]
+  ** https://gist.github.com/rxaviers/7360908[Complete list of github markdown emoji markup]
+* GUI
+  ** https://git-cola.github.io/downloads.html[Git Cola]
+
 
 == Embedded
 
