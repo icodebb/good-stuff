@@ -12,12 +12,20 @@
 :icons: font
 :icon-set: fas
 :experimental:
+:keywords:
 
 Thanks for the great work.
 
 == Software
 
 === IDE and Editor
+
+==== Kdevelop
+* Pros
+  ** `Show uses` feature
+  ** `Auto complete` feature
+* Cons
+  ** Search in files doesn't work on Linux with remote X (project path is too long?)
 
 ==== VS Code
 ===== Extensions
@@ -27,22 +35,43 @@ Thanks for the great work.
 * Great for Diagrams.
 * Good NOTE flags.
 
+==== Sublim Text
+* Pros
+  ** Fonts, best feeling even with same font compare to other editors.
+  ** Hilights, e.g AsciiDoc and C/C++.
+  ** Indent for AsciiDoc
+* Cons
+  ** No preview for AsciiDoc
+
 ==== PyCharm
+* Great for Python programming.
+
+==== Cevelop
+Eclipse + C++ plugin.
+
+==== CodeBlocks
 
 ==== CodeLite
-* https://shortcutworld.com/CodeLite/win/CodeLite_10_Shortcuts[107 Shortcuts for CodeLite 10]
+* Good for C/C++.
+
+==== Phenix Code
+* Pros
+  ** Search feature is fast.
+
+==== Netbeans
+* Pros
+  ** Hints for HTML
 
 ==== Neovim
 * https://hannadrehman.com/top-neovim-plugins-for-developers-in-2022[Top Neovim plugins for developers in 2022]
 
 ==== Golang
-  ** https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins[Editors and IDEs for Go]
+* https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins[Editors and IDEs for Go]
 
 === Programming Languages
 
 ==== General
 * https://pegasuswang.readthedocs.io/zh/latest/[PegasusWang 的读书杂记]
-** TBD 
 * https://happycodings.com/[Happy Codings]
 
 ==== C
@@ -93,7 +122,7 @@ Thanks for the great work.
   **  https://www.youtube.com/watch?v=vz9aLmxYJB0[YouTube: How to Give Presentations with Org Mode]
   **  https://github.com/takaxp/org-tree-slide[org-tree-slide repo]
 
-====  Chemacs2
+==== Chemacs2
 https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it makes it easy to run multiple Emacs configurations side by side.]
 
 ==== C++
@@ -106,7 +135,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 
 ==== https://github.com/facundofarias/awesome-websockets[Awesome WebSockets]
 
-====  https://github.com/rajasegar/awesome-htmx[Awesome HTMX]
+==== https://github.com/rajasegar/awesome-htmx[Awesome HTMX]
 
 ==== Utils
 *  https://github.com/asciidoctor/asciidoctor-reveal.js/[Reveal.js converter for Asciidoctor]
