@@ -24,6 +24,7 @@ Thanks for the great work.
 * Pros
   ** `Show uses` feature
   ** `Auto complete` feature
+  ** Hints for function arguments
 * Cons
   ** Search in files doesn't work on Linux with remote X (project path is too long?)
 
