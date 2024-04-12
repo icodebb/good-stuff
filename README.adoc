@@ -136,6 +136,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 *  https://khan.github.io/Font-Awesome/[Font Awesome] gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
 *  https://github.com/mbasso/awesome-wasm[Awesome Wasm] Collection of awesome things regarding WebAssembly (wasm) ecosystem.
 * https://github.com/yougg/gonote/blob/main/gogrammar.md
+* https://nchan.io/[NCHAN] is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server.
 
 ==== https://github.com/facundofarias/awesome-websockets[Awesome WebSockets]
 
@@ -172,7 +173,10 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 
 === Version Control
 * GitLab/GitHub
-   https://gist.github.com/rxaviers/7360908[Complete list of github markdown emoji markup]
+  ** https://gist.github.com/rxaviers/7360908[Complete list of github markdown emoji markup]
+* GUI
+  ** https://git-cola.github.io/downloads.html[Git Cola]
+
 
 == Embedded
 
@@ -184,6 +188,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 == Hardware
 
 == Utilities
+* https://quickref.me/[QuickRef.ME]
 *  https://www.rapidtables.com/web/color/RGB_Color.html[RGB Color Codes Chart]
 * SSH Clients
   ** mRemoteNG: Multi-Remote Next Generation Connection Manager
@@ -202,6 +207,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 * Fonts
   ** https://www.nerdfonts.com/font-downloads[Nerd Fonts Download]
     My favorite is SpaceMono.
+  ** https://input.djr.com/[Fonts for code from DJR & Font Bureau]
 * Diagrams
   ** https://kroki.io/examples.html[Kroki - Creates diagrams from textual descriptions!]
   ** https://tomgregory.com/using-plantuml-for-digrams-in-a-gitlab-wiki/[Using PlantUML For Diagrams In A GitLab Wiki]
