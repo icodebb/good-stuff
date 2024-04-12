@@ -50,6 +50,10 @@ Thanks for the great work.
 Eclipse + C++ plugin.
 
 ==== CodeBlocks
+* Pros
+  ** Creating project and add files to it.
+* Cons
+  ** Matched words after selection not highlighted.
 
 ==== CodeLite
 * Good for C/C++.
