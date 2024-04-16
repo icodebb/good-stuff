@@ -178,13 +178,15 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 * GUI
   ** https://git-cola.github.io/downloads.html[Git Cola]
 
-
 == Embedded
 
 === RTOS
 *  https://realtimelogic.com/[RealTimeLogic] +
   Real Time Logic is an IoT security and web-enablement specialist helping customers develop world class products.  
    https://github.com/RealTimeLogic[Repo on GitHub]
+
+== Network
+* https://www.calculator.net/ip-subnet-calculator.html[IP Subnet Calculator]
 
 == Hardware
 
