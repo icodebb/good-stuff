@@ -26,7 +26,7 @@ Thanks for the great work.
   ** `Auto complete` feature
   ** Hints for function arguments
 * Cons
-  ** Search in files doesn't work on Linux with remote X (project path is too long?)
+  ** Search in files doesn't work on Linux with remote X if project path is too deep e.g. in a bitbake sandbox tmp folder.
 
 ==== VS Code
 ===== Extensions
@@ -59,13 +59,16 @@ Eclipse + C++ plugin.
 ==== CodeLite
 * Good for C/C++.
 
-==== Phenix Code
+==== Phoenix Code
 * Pros
   ** Search feature is fast.
   ** HTML Collapse/Expand All feature
   ** Bookmarks Panel
+  ** Collapse All/Expand All
+  ** Auto Indent
 * Cons
-  ** Stuck sometime
+  ** Auto Indent is slow
+  ** Extension installation doesn't work well
 
 ==== Netbeans
 * Pros
