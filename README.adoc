@@ -59,9 +59,13 @@ Eclipse + C++ plugin.
 ==== CodeLite
 * Good for C/C++.
 
-==== Phenix Code
+==== Phoenix Code
 * Pros
   ** Search feature is fast.
+  ** Collapse All/Expand All
+  ** Auto Indent
+* Cons
+  ** Auto Indent is slow
 
 ==== Netbeans
 * Pros
