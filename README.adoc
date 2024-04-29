@@ -36,10 +36,10 @@ Thanks for the great work.
 * Great for Diagrams.
 * Good NOTE flags.
 
-==== Sublim Text
+==== Sublime Text
 * Pros
   ** Fonts, best feeling even with same font compare to other editors.
-  ** Hilights, e.g AsciiDoc and C/C++.
+  ** Highlights, e.g AsciiDoc and C/C++.
   ** Indent for AsciiDoc
 * Cons
   ** No preview for AsciiDoc
@@ -62,6 +62,10 @@ Eclipse + C++ plugin.
 ==== Phenix Code
 * Pros
   ** Search feature is fast.
+  ** HTML Collapse/Expand All feature
+  ** Bookmarks Panel
+* Cons
+  ** Stuck sometime
 
 ==== Netbeans
 * Pros
