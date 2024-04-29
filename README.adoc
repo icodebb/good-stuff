@@ -66,6 +66,7 @@ Eclipse + C++ plugin.
   ** Auto Indent
 * Cons
   ** Auto Indent is slow
+  ** Extension install al
 
 ==== Netbeans
 * Pros
