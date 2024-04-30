@@ -74,6 +74,10 @@ Eclipse + C++ plugin.
 * Pros
   ** Hints for HTML
 
+==== Notepad++
+* https://github.com/edusantana/asciidoc-highlight?tab=readme-ov-file[Asciidoc-highlight] +
+  Download XML, import, then restart.
+
 ==== Neovim
 * https://hannadrehman.com/top-neovim-plugins-for-developers-in-2022[Top Neovim plugins for developers in 2022]
 
