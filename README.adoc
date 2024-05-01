@@ -66,6 +66,7 @@ Eclipse + C++ plugin.
   ** Bookmarks Panel
   ** Collapse All/Expand All
   ** Auto Indent
+  ** Indent Guide (the line)
 * Cons
   ** Auto Indent is slow
   ** Extension installation doesn't work well
