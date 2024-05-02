@@ -31,6 +31,7 @@ Thanks for the great work.
 ==== VS Code
 ===== Extensions
 * https://microsoft.github.io/vscode-codicons/dist/codicon.html[Todo Tree Codicons] useful for work, e.g. "icon": "$(bell-slash)" for BLOCKED.
+* Super One Dark Theme
 
 ==== AsciidocFX
 * Great for Diagrams.
