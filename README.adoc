@@ -20,6 +20,19 @@ Thanks for the great work.
 
 === IDE and Editor
 
+==== VS Code
+===== Pros & Cons
+* Pros
+  ** Fast than Kdevelop using remotely on Ubuntu with MobaXterm
+  ** Not much settings used as C Editor
+
+===== Extensions
+* https://microsoft.github.io/vscode-codicons/dist/codicon.html[Todo Tree Codicons] useful for work, e.g. "icon": "$(bell-slash)" for BLOCKED.
+
+===== Themes
+* Super One Dark Theme for Ubuntu
+* Dark(Visual Studio C/C++) for Windows
+
 ==== Kdevelop
 * Pros
   ** `Show uses` feature
@@ -27,11 +40,6 @@ Thanks for the great work.
   ** Hints for function arguments
 * Cons
   ** Search in files doesn't work on Linux with remote X if project path is too deep e.g. in a bitbake sandbox tmp folder.
-
-==== VS Code
-===== Extensions
-* https://microsoft.github.io/vscode-codicons/dist/codicon.html[Todo Tree Codicons] useful for work, e.g. "icon": "$(bell-slash)" for BLOCKED.
-* Super One Dark Theme
 
 ==== AsciidocFX
 * Great for Diagrams.
