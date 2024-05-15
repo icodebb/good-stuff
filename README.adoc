@@ -160,6 +160,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
   ** https://www.jsdelivr.com/package/gh/highlightjs/cdn-release[CDN Release]
   ** https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/[CDN 11.9.0 build]
   ** https://github.com/highlightjs/cdn-release[Highlights.js CDN Pre-built Releases GitHub Repo]
+* https://github.com/syntaxhighlighter/syntaxhighlighter[syntaxhighlighter/syntaxhighlighter] stopped developing, last release on Feb 12, 2016
 
 ==== https://github.com/facundofarias/awesome-websockets[Awesome WebSockets]
 
