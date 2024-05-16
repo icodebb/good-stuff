@@ -28,10 +28,12 @@ Thanks for the great work.
 
 ===== Extensions
 * https://microsoft.github.io/vscode-codicons/dist/codicon.html[Todo Tree Codicons] useful for work, e.g. "icon": "$(bell-slash)" for BLOCKED.
+* `Awesome Emacs Keymap` When using in Linux with MobaXterm. 
 
 ===== Themes
-* Super One Dark Theme for Ubuntu
-* Dark(Visual Studio C/C++) for Windows
+* `Super One Dark` Theme for Ubuntu
+* `Dark(Visual Studio C/C++)` for Windows
+* `vscode-icons` I like the icon for AsciiDoc. 
 
 ==== Kdevelop
 * Pros
