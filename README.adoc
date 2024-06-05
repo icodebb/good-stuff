@@ -35,13 +35,18 @@ Thanks for the great work.
 * `Dark(Visual Studio C/C++)` for Windows
 * `vscode-icons` I like the icon for AsciiDoc. 
 
+==== PyCharm
+* Pros
+  ** Great for Python programming.
+  ** Great Markdown editor with `Markdown Split Editor` and `Markdown Editor` modes.
+
 ==== Kdevelop
 * Pros
   ** `Show uses` feature
   ** `Auto complete` feature
   ** Hints for function arguments
 * Cons
-  ** Search in files doesn't work on Linux with remote X if project path is too deep e.g. in a bitbake sandbox tmp folder.
+  ** `Search in files` doesn't work on Linux with remote X if project path is too deep e.g. in a bitbake sandbox tmp folder.
 
 ==== AsciidocFX
 * Great for Diagrams.
@@ -55,9 +60,6 @@ Thanks for the great work.
 * Cons
   ** No preview for AsciiDoc
 
-==== PyCharm
-* Great for Python programming.
-
 ==== Cevelop
 Eclipse + C++ plugin.
 
@@ -69,6 +71,12 @@ Eclipse + C++ plugin.
 
 ==== CodeLite
 * Good for C/C++.
+
+==== IntelliJ IDEA Community
+* Pros
+  ** Great for HTML.
+* Cons
+  ** Force indent on HTML, it's OK, and there may be configurable option on it, didn't find.
 
 ==== Phoenix Code
 * Pros
