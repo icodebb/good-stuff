@@ -49,8 +49,9 @@ Thanks for the great work.
   ** `Search in files` doesn't work on Linux with remote X if project path is too deep e.g. in a bitbake sandbox tmp folder.
 
 ==== AsciidocFX
-* Great for Diagrams.
+* Great for PlantUML and other Diagrams.
 * Good NOTE flags.
+* Good group feature.
 
 ==== Sublime Text
 * Pros
@@ -61,7 +62,7 @@ Thanks for the great work.
   ** No preview for AsciiDoc
 
 ==== Cevelop
-Eclipse + C++ plugin.
+Eclipse + Cpp plugin.
 
 ==== CodeBlocks
 * Pros
@@ -116,48 +117,54 @@ Eclipse + C++ plugin.
 
 ==== C
 ===== Awesome C
-  * https://notabug.org/mazurov/awesome-c[mazurov/awesome-c]
-  * https://github.com/oz123/awesome-c[oz123/awesome-c]
-  * https://github.com/uhub/awesome-c[uhub/awesome-c]
-  * https://notabug.org/bfgeshka/awesome-c[bfgeshka/awesome-c]
+* https://notabug.org/mazurov/awesome-c[mazurov/awesome-c]
+* https://github.com/oz123/awesome-c[oz123/awesome-c]
+* https://github.com/uhub/awesome-c[uhub/awesome-c]
+* https://notabug.org/bfgeshka/awesome-c[bfgeshka/awesome-c]
 
 ===== TutorialsPoint
-  * https://www.tutorialspoint.com/c_standard_library/index.htm[C Standard Library]
-  * https://www.tutorialspoint.com/cprogramming/index.htm[C Programming Tutorial]
+* https://www.tutorialspoint.com/c_standard_library/index.htm[C Standard Library]
+* https://www.tutorialspoint.com/cprogramming/index.htm[C Programming Tutorial]
 
 ==== Python
 *  https://www.pythoncentral.io/[Python Programming Guides and Tutorials]
 *  https://ehmatthes.github.io/pcc/cheatsheets/README.html[Resources for Python Crash Course (1st edition), from No Starch Press]
 
 ==== Go
-*  https://buf.build/docs/bsr/introduction[BSR(Buf Schema Registry)]
-*  https://github.com/yougg/gonote/blob/main/gogrammar.md[Google Go语言 golang 语法详解笔记]
-*  https://tinygo.org/[TinyGo - A Go Compiler For Small Places]
-*  https://www.youtube.com/watch?v=75VGzwtmgXc[YouTube: an 8-bit microcontroller but it has a garbage collector]
+* Awesome Series
+  ** https://github.com/avelino/awesome-go[avelino/Awesome Go]
+  ** https://github.com/uhub/awesome-go[uhub/awesome-go]
+  ** https://awesome-go.com/software-packages/[awesome-go.com/software-packages]
+  ** https://mehdihadeli.github.io/awesome-go-education/go-instructions/go/[Awesome Go Education]
+  ** https://gitee.com/toophy/awesome-go[gitee.com/toophy/awesome-go (last commit 9 years ago)]
+* https://buf.build/docs/bsr/introduction[BSR(Buf Schema Registry)]
+* https://github.com/yougg/gonote/blob/main/gogrammar.md[Google Go语言 golang 语法详解笔记]
+* https://tinygo.org/[TinyGo - A Go Compiler For Small Places]
+* https://www.youtube.com/watch?v=75VGzwtmgXc[YouTube: an 8-bit microcontroller but it has a garbage collector]
 
 === Repositories(github.com)
 
 ==== Documentation
-*  https://go.dev/doc/code[How to Write Go Code]
+* https://go.dev/doc/code[How to Write Go Code]
 
 ==== niyumard
-*  https://github.com/niyumard/gobyexample[Go by Examples]
-*  https://github.com/niyumard/learn-go-with-tests[Learn Go with Tests](forked)
+* https://github.com/niyumard/gobyexample[Go by Examples]
+* https://github.com/niyumard/learn-go-with-tests[Learn Go with Tests](forked)
 
 ==== quii
-*  https://github.com/quii/learn-go-with-tests[Learn Go with Tests(original)]
+* https://github.com/quii/learn-go-with-tests[Learn Go with Tests(original)]
 
 ==== HTMX
-*  https://github.com/bugbytes-io/htmx-go-demo/tree/1df93f925d27a5d6df862f7a498417fecefa96be[HTMX demo with a Go backend]
+* https://github.com/bugbytes-io/htmx-go-demo/tree/1df93f925d27a5d6df862f7a498417fecefa96be[HTMX demo with a Go backend]
 
 ==== niyumard
-*  https://github.com/niyumard/Doom-Emacs-Cheat-Sheet[Doom Emacs Cheatsheet]
+* https://github.com/niyumard/Doom-Emacs-Cheat-Sheet[Doom Emacs Cheatsheet]
 
 ==== james-stoup
-*  https://github.com/james-stoup/emacs-org-mode-tutorial/tree/main[Emacs Org Mode Tutorial]
+* https://github.com/james-stoup/emacs-org-mode-tutorial/tree/main[Emacs Org Mode Tutorial]
 
 ==== Emacs from Scratch
-*  https://github.com/daviwil/emacs-from-scratch[Emacs from Scratch]
+* https://github.com/daviwil/emacs-from-scratch[Emacs from Scratch]
   **  https://github.com/daviwil/emacs-from-scratch/blob/master/show-notes/Emacs-Tips-04.org[How to Give Presentations with Org Mode]
   **  https://www.youtube.com/watch?v=vz9aLmxYJB0[YouTube: How to Give Presentations with Org Mode]
   **  https://github.com/takaxp/org-tree-slide[org-tree-slide repo]
@@ -166,11 +173,11 @@ Eclipse + C++ plugin.
 https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it makes it easy to run multiple Emacs configurations side by side.]
 
 ==== C++
-*  https://www.state-machine.com/qpcpp/[Quantum Leaps C++]
+* https://www.state-machine.com/qpcpp/[Quantum Leaps C++]
 
 ==== Web
-*  https://khan.github.io/Font-Awesome/[Font Awesome] gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
-*  https://github.com/mbasso/awesome-wasm[Awesome Wasm] Collection of awesome things regarding WebAssembly (wasm) ecosystem.
+* https://khan.github.io/Font-Awesome/[Font Awesome] gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+* https://github.com/mbasso/awesome-wasm[Awesome Wasm] Collection of awesome things regarding WebAssembly (wasm) ecosystem.
 * https://github.com/yougg/gonote/blob/main/gogrammar.md
 * https://nchan.io/[NCHAN] is a scalable, flexible pub/sub server for the modern web, built as a module for the Nginx web server.
 * Highlight.js
@@ -185,8 +192,8 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 ==== https://github.com/rajasegar/awesome-htmx[Awesome HTMX]
 
 ==== Utils
-*  https://github.com/asciidoctor/asciidoctor-reveal.js/[Reveal.js converter for Asciidoctor]
-*  https://github.com/bodiam/awesome-asciidoc[bodiam/awesome-asciidoc] +
+* https://github.com/asciidoctor/asciidoctor-reveal.js/[Reveal.js converter for Asciidoctor]
+* https://github.com/bodiam/awesome-asciidoc[bodiam/awesome-asciidoc] +
   What you can find in this Notebook:
   ** Tables
     *** Table align attributes.
@@ -206,12 +213,12 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
     *** Highlight lines.
 
 === Hacking
-*  https://www.thc.org/[The Hacker's Choice]
+* https://www.thc.org/[The Hacker's Choice]
   ** https://www.thc.org/segfault/[Segfault]
   **  https://github.com/vanhauser-thc[thc on GitHub]
 
 === Docker
-*   https://github.com/docker/doodle.git[docker/doodle]
+* https://github.com/docker/doodle.git[docker/doodle]
 
 === Version Control
 * GitLab/GitHub
@@ -222,7 +229,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 == Embedded
 
 === RTOS
-*  https://realtimelogic.com/[RealTimeLogic] +
+* https://realtimelogic.com/[RealTimeLogic] +
   Real Time Logic is an IoT security and web-enablement specialist helping customers develop world class products.  
    https://github.com/RealTimeLogic[Repo on GitHub]
 
