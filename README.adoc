@@ -140,7 +140,7 @@ Eclipse + Cpp plugin.
 * https://buf.build/docs/bsr/introduction[BSR(Buf Schema Registry)]
 * https://github.com/yougg/gonote/blob/main/gogrammar.md[Google Go语言 golang 语法详解笔记]
 * https://tinygo.org/[TinyGo - A Go Compiler For Small Places]
-* https://www.youtube.com/watch?v=75VGzwtmgXc[YouTube: an 8-bit microcontroller but it has a garbage collector]
+* https://www.youtube.com/watch?v=75VGzwtmgXc[YouTube: an 8-bit micro-controller but it has a garbage collector]
 
 === Repositories(github.com)
 
