@@ -77,7 +77,7 @@ Eclipse + Cpp plugin.
 * Pros
   ** Great for HTML.
 * Cons
-  ** Force indent on HTML, it's OK, and there may be configurable option on it, didn't find.
+  ** The auto indent is a double-edged sword, you need to take care the <li><h2>xx</h3></li>, the </li> needs to be in a new line.
 
 ==== Phoenix Code
 * Pros
