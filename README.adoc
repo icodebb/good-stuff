@@ -276,3 +276,6 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
     *** IP API
     *** Random Data API
     *** The Pokemon API
+
+== Links
+* https://www.fileeagle.com/software[Software Downloads]
