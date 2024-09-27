@@ -256,9 +256,11 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
   ** https://kate-editor.org/syntax/data/html/asciidoc.adoc.html[AsciiDoc Syntax Highlighting]
   ** https://plantuml.com/sequence-diagram[Sequence Diagrams]
 * Fonts
-  ** https://www.nerdfonts.com/font-downloads[Nerd Fonts Download]
-    My favorite is SpaceMono.
+  ** https://www.nerdfonts.com/font-downloads[Nerd Fonts Download] *
+     Useful for terminals e.g. Oh My Bash, etc.
   ** https://input.djr.com/[Fonts for code from DJR & Font Bureau]
+  ** https://coding-fonts.netlify.app/[Coding Fonts] *
+     Nice Web interface to view the HTML/CSS/JavaScripts/Characters effects.
 * Diagrams
   ** https://kroki.io/examples.html[Kroki - Creates diagrams from textual descriptions!]
   ** https://tomgregory.com/using-plantuml-for-digrams-in-a-gitlab-wiki/[Using PlantUML For Diagrams In A GitLab Wiki]
