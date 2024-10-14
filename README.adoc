@@ -141,6 +141,9 @@ Eclipse + Cpp plugin.
 * https://github.com/yougg/gonote/blob/main/gogrammar.md[Google Go语言 golang 语法详解笔记]
 * https://tinygo.org/[TinyGo - A Go Compiler For Small Places]
 * https://www.youtube.com/watch?v=75VGzwtmgXc[YouTube: an 8-bit micro-controller but it has a garbage collector]
+* eBooks
+  ** https://github.com/0voice/Introduction-to-Golang.git[最全空降Golang资料补给包]
+  ** https://github.com/mynane/PDF[收集的各种资源]
 
 === Repositories(github.com)
 
