@@ -294,7 +294,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
     *** The Pokemon API
 
 == Links
-=== Awesome Stuffs
+=== Awesome Stuff
 * https://github.com/avelino/awesome-go[avelino/Awesome Go]
 * https://github.com/uhub/awesome-go[uhub/Awesome Go]
 * https://github.com/vinta/awesome-python[vintta/Awesome Python]
