@@ -141,6 +141,9 @@ Eclipse + Cpp plugin.
 * https://github.com/yougg/gonote/blob/main/gogrammar.md[Google Go语言 golang 语法详解笔记]
 * https://tinygo.org/[TinyGo - A Go Compiler For Small Places]
 * https://www.youtube.com/watch?v=75VGzwtmgXc[YouTube: an 8-bit micro-controller but it has a garbage collector]
+* eBooks
+  ** https://github.com/0voice/Introduction-to-Golang.git[最全空降Golang资料补给包]
+  ** https://github.com/mynane/PDF[收集的各种资源]
 
 === Repositories(github.com)
 
@@ -291,6 +294,14 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
     *** The Pokemon API
 
 == Links
+=== Awesome Stuff
+* https://github.com/avelino/awesome-go[avelino/Awesome Go]
+* https://github.com/uhub/awesome-go[uhub/Awesome Go]
+* https://github.com/vinta/awesome-python[vintta/Awesome Python]
+* https://github.com/oz123/awesome-c[oz123/Awesome C]
+* https://github.com/uhub/awesome-c[uhub/Awesome C]
+* https://github.com/fffaraz/awesome-cpp[fffaraz/Awesome C++]
+* https://github.com/lukasz-madon/awesome-remote-job[Awsome Remote Job]
 
 === Downloads
 * https://www.fileeagle.com/software[Software Downloads]
