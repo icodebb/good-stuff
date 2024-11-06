@@ -291,4 +291,17 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
     *** The Pokemon API
 
 == Links
+
+=== Downloads
 * https://www.fileeagle.com/software[Software Downloads]
+
+=== YouTube Channels
+* https://www.youtube.com/@TheCodingTrain/videos[The Coding Train]
+* https://www.youtube.com/@BroCodez/featured[Bro Code]
+* https://www.youtube.com/@freecodecamp[freeCodCamp.org]
+* https://www.youtube.com/@coreyms/featured[Corey Schafer] - mainly Python
+* https://www.youtube.com/@TheCherno[The Cherno] - C++
+* https://www.youtube.com/@TechWorldwithNana[TechWorld with Nana]
+* https://www.youtube.com/@NeetCode[NeetCode.io] - If you want to learn LeeCode.
+* https://www.youtube.com/@hellomayuko[Mayuko]
+* https://www.youtube.com/@miaa.mp4[Mia N.]
