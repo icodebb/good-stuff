@@ -62,7 +62,7 @@ Thanks for the great work.
   ** No preview for AsciiDoc
 
 ==== Cevelop
-Eclipse + Cpp plugin.
+Eclipse + Cpp plug-in.
 
 ==== CodeBlocks
 * Pros
@@ -100,7 +100,7 @@ Eclipse + Cpp plugin.
   Download XML, import, then restart.
 
 ==== Neovim
-* https://hannadrehman.com/top-neovim-plugins-for-developers-in-2022[Top Neovim plugins for developers in 2022]
+* https://hannadrehman.com/top-neovim-plugins-for-developers-in-2022[Top Neovim plug-ins for developers in 2022]
 
 ==== Golang
 * https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins[Editors and IDEs for Go]
