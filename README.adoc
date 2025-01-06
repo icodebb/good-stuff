@@ -242,6 +242,10 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 == Hardware
 
 == Utilities
+* Windows
+  ** Move Mouse App - Keep the Windows not locked up automatically
+    *** Can be installed via Microsoft Store
+    *** Hide the window, use right mouse to adjust the settings through status icons panel.
 * https://quickref.me/[QuickRef.ME]
 *  https://www.rapidtables.com/web/color/RGB_Color.html[RGB Color Codes Chart]
 * SSH Clients
