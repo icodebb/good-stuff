@@ -127,8 +127,9 @@ Eclipse + Cpp plug-in.
 * https://www.tutorialspoint.com/cprogramming/index.htm[C Programming Tutorial]
 
 ==== Python
-*  https://www.pythoncentral.io/[Python Programming Guides and Tutorials]
-*  https://ehmatthes.github.io/pcc/cheatsheets/README.html[Resources for Python Crash Course (1st edition), from No Starch Press]
+* https://www.pythoncentral.io/[Python Programming Guides and Tutorials]
+* https://ehmatthes.github.io/pcc/cheatsheets/README.html[Resources for Python Crash Course (1st edition), from No Starch Press]
+* https://peps.python.org/pep-0008/[PEP 8 – Style Guide for Python Code]
 
 ==== Go
 * Awesome Series
