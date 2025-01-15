@@ -61,6 +61,10 @@ Thanks for the great work.
 * Cons
   ** No preview for AsciiDoc
 
+==== gEdit
+
+* https://github.com/edusantana/asciidoc-highlight[Asciidoc Highlight for gEdit]
+
 ==== Cevelop
 Eclipse + Cpp plug-in.
 
