@@ -1,0 +1,20 @@
+= Entertainment
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+:sectlinks:
+:numbered:
+:doctype: article
+:encoding: utf-8
+:lang: en
+:imagesdir: ./images
+:icons: font
+:icon-set: fas
+:experimental:
+:keywords:
+
+== YouTube
+
+* [ ] https://www.youtube.com/watch?v=Cq500MOx72M[在芝加哥賣台灣菜，台灣人卻罵爆？]
+* [ ] https://www.youtube.com/watch?v=Ozh16Q29L_M&list=WL&index=3&pp=gAQBiAQB[13歲少年竟是殺人魔,背後的真相令人]
