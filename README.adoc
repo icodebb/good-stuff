@@ -239,7 +239,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 === RTOS
 * https://realtimelogic.com/[RealTimeLogic] +
   Real Time Logic is an IoT security and web-enablement specialist helping customers develop world class products.  
-   https://github.com/RealTimeLogic[Repo on GitHub]
+  https://github.com/RealTimeLogic[Repo on GitHub]
 
 == Network
 * https://www.calculator.net/ip-subnet-calculator.html[IP Subnet Calculator]
@@ -279,11 +279,11 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
     *** https://www.fontsquirrel.com/[Fontsquirrel]
     *** https://www.fontsquirrel.com/fonts/[Fontsquirrel Fonts]
   ** https://www.nerdfonts.com/font-downloads[Nerd Fonts Download] +
-     Useful for terminals e.g. Oh My Bash, etc.
+    Useful for terminals e.g. Oh My Bash, etc.
   ** https://input.djr.com/[Fonts for code from DJR & Font Bureau]
   ** https://coding-fonts.netlify.app/[Coding Fonts] +
-     Nice Web interface to view the HTML/CSS/JavaScripts/Characters effects. +
-     I like Cousine and Anonymous Pro fonts, installed the Cousine one on my Windows 11, set to LiteIDE's default font.
+    Nice Web interface to view the HTML/CSS/JavaScripts/Characters effects. +
+    I like Cousine and Anonymous Pro fonts, installed the Cousine one on my Windows 11, set to LiteIDE's default font.
 * Diagrams
   ** https://kroki.io/examples.html[Kroki - Creates diagrams from textual descriptions!]
   ** https://tomgregory.com/using-plantuml-for-digrams-in-a-gitlab-wiki/[Using PlantUML For Diagrams In A GitLab Wiki]
