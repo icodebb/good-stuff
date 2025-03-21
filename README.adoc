@@ -136,6 +136,7 @@ Eclipse + Cpp plug-in.
 * https://peps.python.org/pep-0008/[PEP 8 – Style Guide for Python Code]
 
 ==== Go
+* https://github.com/gophertuts/go-basics/tree/master/go-learning-resources[Go Learning Resources] - by gophertuts
 * Awesome Series
   ** https://github.com/avelino/awesome-go[avelino/Awesome Go]
   ** https://github.com/uhub/awesome-go[uhub/awesome-go]
@@ -149,6 +150,8 @@ Eclipse + Cpp plug-in.
 * eBooks
   ** https://github.com/0voice/Introduction-to-Golang.git[最全空降Golang资料补给包]
   ** https://github.com/mynane/PDF[收集的各种资源]
+* YouTube
+  ** https://www.youtube.com/watch?v=WNI8uKBE-zs&list=PLBan2kCeFnBosc-AMMGXLXPKYDTA-7t_a[sigfault playlist]
 
 === Repositories(github.com)
 
