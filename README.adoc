@@ -318,6 +318,11 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 === Downloads
 * https://www.fileeagle.com/software[Software Downloads]
 
+=== eBooks
+* EvanLi
+  ** https://github.com/EvanLi/programming-book[EvanLi/programming-book]
+  ** https://github.com/EvanLi/programming-book-2[EvanLi/programming-book-2]
+
 === YouTube Channels
 * https://www.youtube.com/@TheCodingTrain/videos[The Coding Train]
 * https://www.youtube.com/@BroCodez/featured[Bro Code]
