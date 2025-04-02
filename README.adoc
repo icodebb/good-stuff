@@ -136,22 +136,31 @@ Eclipse + Cpp plug-in.
 * https://peps.python.org/pep-0008/[PEP 8 – Style Guide for Python Code]
 
 ==== Go
-* https://github.com/gophertuts/go-basics/tree/master/go-learning-resources[Go Learning Resources] - by gophertuts
+* Tutorial
+  ** https://pkg.go.dev/[pkg.go.dev] - search for packages
+    *** https://go.dev/doc/[User Manual]
+    *** https://go.dev/doc/code[How to Write Go Code]
+    *** https://go.dev/doc/effective_go[Effective Go]
+    *** https://pkg.go.dev/std[Standard library]
+    *** Module
+      *** https://go.dev/doc/modules/managing-source[Managing Module]
+      *** https://go.dev/doc/modules/layout[Layout]
+  ** https://github.com/gophertuts/go-basics/tree/master/go-learning-resources[Go Learning Resources] - by gophertuts
+  ** https://buf.build/docs/bsr/introduction[BSR(Buf Schema Registry)]
+  ** https://github.com/yougg/gonote/blob/main/gogrammar.md[Google Go语言 golang 语法详解笔记]
+  ** https://tinygo.org/[TinyGo - A Go Compiler For Small Places]
 * Awesome Series
   ** https://github.com/avelino/awesome-go[avelino/Awesome Go]
   ** https://github.com/uhub/awesome-go[uhub/awesome-go]
   ** https://awesome-go.com/software-packages/[awesome-go.com/software-packages]
   ** https://mehdihadeli.github.io/awesome-go-education/go-instructions/go/[Awesome Go Education]
   ** https://gitee.com/toophy/awesome-go[gitee.com/toophy/awesome-go (last commit 9 years ago)]
-* https://buf.build/docs/bsr/introduction[BSR(Buf Schema Registry)]
-* https://github.com/yougg/gonote/blob/main/gogrammar.md[Google Go语言 golang 语法详解笔记]
-* https://tinygo.org/[TinyGo - A Go Compiler For Small Places]
-* https://www.youtube.com/watch?v=75VGzwtmgXc[YouTube: an 8-bit micro-controller but it has a garbage collector]
 * eBooks
   ** https://github.com/0voice/Introduction-to-Golang.git[最全空降Golang资料补给包]
   ** https://github.com/mynane/PDF[收集的各种资源]
 * YouTube
   ** https://www.youtube.com/watch?v=WNI8uKBE-zs&list=PLBan2kCeFnBosc-AMMGXLXPKYDTA-7t_a[sigfault playlist]
+  ** https://www.youtube.com/watch?v=75VGzwtmgXc[An 8-bit micro-controller but it has a garbage collector]
 
 === Repositories(github.com)
 
