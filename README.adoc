@@ -26,15 +26,6 @@ Thanks for the great work.
   ** Fast than Kdevelop using remotely on Ubuntu with MobaXterm
   ** Not much settings used as C Editor
 
-===== Extensions
-* https://microsoft.github.io/vscode-codicons/dist/codicon.html[Todo Tree Codicons] useful for work, e.g. "icon": "$(bell-slash)" for BLOCKED.
-* `Awesome Emacs Keymap` When using in Linux with MobaXterm. 
-
-===== Themes
-* `Super One Dark` Theme for Ubuntu
-* `Dark(Visual Studio C/C++)` for Windows
-* `vscode-icons` I like the icon for AsciiDoc. 
-
 ==== PyCharm
 * Pros
   ** Great for Python programming.
@@ -143,12 +134,14 @@ Eclipse + Cpp plug-in.
     *** https://go.dev/doc/effective_go[Effective Go]
     *** https://pkg.go.dev/std[Standard library]
     *** Module
-      *** https://go.dev/doc/modules/managing-source[Managing Module]
-      *** https://go.dev/doc/modules/layout[Layout]
+      **** https://go.dev/doc/modules/managing-source[Managing Module]
+      **** https://go.dev/doc/modules/layout[Layout]
   ** https://github.com/gophertuts/go-basics/tree/master/go-learning-resources[Go Learning Resources] - by gophertuts
   ** https://buf.build/docs/bsr/introduction[BSR(Buf Schema Registry)]
   ** https://github.com/yougg/gonote/blob/main/gogrammar.md[Google Go语言 golang 语法详解笔记]
   ** https://tinygo.org/[TinyGo - A Go Compiler For Small Places]
+* gRPC
+  ** https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html[Python and Go : Part I - gRPC]
 * Awesome Series
   ** https://github.com/avelino/awesome-go[avelino/Awesome Go]
   ** https://github.com/uhub/awesome-go[uhub/awesome-go]
