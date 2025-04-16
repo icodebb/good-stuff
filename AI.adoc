@@ -1,0 +1,30 @@
+= AI Tools
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+:sectlinks:
+:numbered:
+:doctype: article
+:encoding: utf-8
+:lang: en
+:imagesdir: ./images
+:icons: font
+:icon-set: fas
+:experimental:
+:keywords: AI Drawing
+
+== English
+
+== Programming
+
+== Drawing
+* https://ideogram.ai[Ideogram for generating pictures] +
+  Log in via my work gmail account.
+
+== Charts
+* https://napkin.ai/[Napkin.AI]
+  Log in via my work gmail account. +
+  Installed App to my Windows laptop.
+
+== Links
