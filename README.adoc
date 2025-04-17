@@ -110,6 +110,25 @@ Eclipse + Cpp plug-in.
 * https://happycodings.com/[Happy Codings]
 * https://roadmap.alexhyett.com/backend-developer-roadmap/[Backend Developer Roadmap] - Nice Map
 
+==== 10 GitHub Repositories for the Self-Taught Developer
+
+See Original URL
+https://betterprogramming.pub/10-github-repositories-for-the-self-taught-developer-c8b69b052ba4[Here]
+
+* https://github.com/kamranahmedse/developer-roadmap[developer-roadmap]
+* https://github.com/ossu/computer-science[computer-science] OSSU - Open Source Society University.
+* https://github.com/prakhar1989/awesome-courses[Awesome CS Courses]
+* https://github.com/jwasham/coding-interview-university[coding-interview-university] 
+  multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+* https://github.com/donnemartin/system-design-primer[The System DesignPrimer] Learn how to design large-scale systems.
+* https://github.com/EbookFoundation/free-programming-books[free-programming-books]
+  List of Free Learning Resources In Many Languages.
+* https://github.com/danistefanovic/build-your-own-x[Build your own X]
+* https://github.com/public-apis/public-apis[Public APIs] A collective list of free APIs for use in software and web development.
+* https://github.com/tuvtran/project-based-learning[Project Based Learning]
+* https://github.com/trimstray/the-book-of-secret-knowledge[The Book of Secret Knowledge] A collection of inspiring lists, manuals, cheatsheet,
+  blogs, hacks, one-liners, cli/web tools, and more.
+
 ==== C
 ===== Awesome C
 * https://notabug.org/mazurov/awesome-c[mazurov/awesome-c]
@@ -228,7 +247,8 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 === Hacking
 * https://www.thc.org/[The Hacker's Choice]
   ** https://www.thc.org/segfault/[Segfault]
-  **  https://github.com/vanhauser-thc[thc on GitHub]
+  ** https://github.com/vanhauser-thc[thc on GitHub]
+  ** https://github.com/hackerschoice/THC-Archive[THC Archive]
 
 === Docker
 * https://github.com/docker/doodle.git[docker/doodle]
