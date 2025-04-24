@@ -268,6 +268,7 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
 
 == Network
 * https://www.calculator.net/ip-subnet-calculator.html[IP Subnet Calculator]
+* https://gitee.com/cdevelopment/easy-tshark.git[Easy-TShark, A wireshark wrapper in C++] 
 
 == Hardware
 
@@ -276,6 +277,9 @@ https://github.com/plexus/chemacs2[Chemacs 2 is an Emacs profile switcher, it ma
   ** Move Mouse App - Keep the Windows not locked up automatically
     *** Can be installed via Microsoft Store
     *** Hide the window, use right mouse to adjust the settings through status icons panel.
+  ** https://github.com/t3l3machus/ACEshark[ACEshark] +
+  ACEshark is a utility designed for rapid extraction and analysis of Windows service configurations and Access Control Entries, eliminating the need for tools like `accesschk.exe` or other non-native binaries.
+
 * https://quickref.me/[QuickRef.ME]
 *  https://www.rapidtables.com/web/color/RGB_Color.html[RGB Color Codes Chart]
 * SSH Clients
