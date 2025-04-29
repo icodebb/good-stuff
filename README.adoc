@@ -149,6 +149,7 @@ https://betterprogramming.pub/10-github-repositories-for-the-self-taught-develop
 * Tutorial
   ** https://pkg.go.dev/[pkg.go.dev] - search for packages
     *** https://go.dev/doc/[User Manual]
+    *** https://go.dev/tour/welcome/1[Tour of Go]
     *** https://go.dev/doc/code[How to Write Go Code]
     *** https://go.dev/doc/effective_go[Effective Go]
     *** https://pkg.go.dev/std[Standard library]
@@ -159,6 +160,11 @@ https://betterprogramming.pub/10-github-repositories-for-the-self-taught-develop
   ** https://buf.build/docs/bsr/introduction[BSR(Buf Schema Registry)]
   ** https://github.com/yougg/gonote/blob/main/gogrammar.md[Google Go语言 golang 语法详解笔记]
   ** https://tinygo.org/[TinyGo - A Go Compiler For Small Places]
+  ** https://github.com/niyumard/gobyexample[Go by Examples]
+  ** https://testwithgo.com/[Test with Go]
+  ** https://github.com/quii/learn-go-with-tests[Learn Go with Tests]
+  ** https://github.com/niyumard/learn-go-with-tests[Learn Go with Tests](forked)
+  ** https://github.com/golang/go[Go's Source Code]
 * gRPC
   ** https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html[Python and Go : Part I - gRPC]
 * Awesome Series
@@ -178,13 +184,6 @@ https://betterprogramming.pub/10-github-repositories-for-the-self-taught-develop
 
 ==== Documentation
 * https://go.dev/doc/code[How to Write Go Code]
-
-==== niyumard
-* https://github.com/niyumard/gobyexample[Go by Examples]
-* https://github.com/niyumard/learn-go-with-tests[Learn Go with Tests](forked)
-
-==== quii
-* https://github.com/quii/learn-go-with-tests[Learn Go with Tests(original)]
 
 ==== HTMX
 * https://github.com/bugbytes-io/htmx-go-demo/tree/1df93f925d27a5d6df862f7a498417fecefa96be[HTMX demo with a Go backend]
