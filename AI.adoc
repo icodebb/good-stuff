@@ -14,17 +14,35 @@
 :experimental:
 :keywords: AI Drawing
 
-== English
+== Generic AI Tools
 
-== Programming
+* https://www.microsoft.com/en-us/ai/tools[Microsoft AI Tools]
+* https://www.google.com/aihub/[Google AI Hub]
+* https://openai.com/[OpenAI]
+* https://deeplearning.ai/[DeepLearning.ai]
+* https://huggingface.co/[Hugging Face]
 
-== Drawing
+== AI Drawing
 * https://ideogram.ai[Ideogram for generating pictures] +
   Log in via my work gmail account.
+* https://www.openai.com/blog/introducing-openai-drawing-tool/[OpenAI Drawing Tool]
+* https://www.openai.com/blog/introducing-openai-painting-tool/[OpenAI Painting Tool]
+* https://www.openai.com/blog/introducing-openai-character-creator/[OpenAI Character Creator]
 
-== Charts
+== AI Charts
 * https://napkin.ai/[Napkin.AI]
   Log in via my work gmail account. +
   Installed App to my Windows laptop.
+* https://www.openai.com/blog/introducing-openai-chart-tool/[OpenAI Chart Tool]
+* https://www.openai.com/blog/introducing-openai-table-tool/[OpenAI Table Tool]
+* https://www.openai.com/blog/introducing-openai-diagram-tool/[OpenAI Diagram Tool]
+
+== Programming
+=== IDE Extensions
+* Gemini Code Assist
 
 == Links
+* https://www.zdnet.com/article/the-best-ai-for-coding-in-2025-including-two-new-top-picks-and-what-not-to-use/[The best AI for Coding in 2025]
+* https://www.techinsights.com/blog/10-amazing-ai-apps-for-coding-and-productivity-review/[10 Amazing AI Apps for Coding]
+* https://www.techinsights.com/blog/10-reasons-why-you-should-use-ai-for-coding/[10 Reasons Why You Should Use AI for Coding]
+* https://www.qodo.ai/blog/best-ai-coding-assistant-tools/[Best AI Coding Assistant Tools]
