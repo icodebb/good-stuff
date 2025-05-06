@@ -1,10 +1,8 @@
 Thanks for the great work.
 
-Software {#_software}
-========
+# Software {#_software}
 
-IDE and Editor {#_ide_and_editor}
---------
+## IDE and Editor {#_ide_and_editor}
 
 ### VS Code {#_vs_code}
 
@@ -137,8 +135,7 @@ Eclipse + Cpp plug-in.
 
 -   [ReText](https://github.com/retext-project/retext) Simple and lightweight viewer for Ubuntu Linux.
 
-Programming {#_programming}
---------
+## Programming {#_programming}
 
 ### General {#_general}
 
@@ -273,8 +270,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
     -   [An 8-bit micro-controller but it has a garbage collector](https://www.youtube.com/watch?v=75VGzwtmgXc)
 
-Repositories(github.com) {#_repositoriesgithub_com}
---------
+## Repositories(github.com) {#_repositoriesgithub_com}
 
 ### Documentation {#_documentation}
 
@@ -376,8 +372,7 @@ Repositories(github.com) {#_repositoriesgithub_com}
 
         -   Highlight lines.
 
-Hacking {#_hacking}
--------
+## Hacking {#_hacking}
 
 -   [The Hacker's Choice](https://www.thc.org/)
 
@@ -387,13 +382,11 @@ Hacking {#_hacking}
 
     -   [THC Archive](https://github.com/hackerschoice/THC-Archive)
 
-Docker {#_docker}
---------
+## Docker {#_docker}
 
 -   [docker/doodle](https://github.com/docker/doodle.git)
 
-Version Control {#_version_control}
---------
+## Version Control {#_version_control}
 
 -   GitLab/GitHub
 
@@ -403,27 +396,22 @@ Version Control {#_version_control}
 
     -   [Git Cola](https://git-cola.github.io/downloads.html)
 
-Embedded {#_embedded}
-========
+# Embedded {#_embedded}
 
-RTOS {#_rtos}
---------
+## RTOS {#_rtos}
 
 -   [RealTimeLogic](https://realtimelogic.com/)
     Real Time Logic is an IoT security and web-enablement specialist helping customers develop world class products. [Repo on GitHub](https://github.com/RealTimeLogic)
 
-Network {#_network}
-=======
+# Network {#_network}
 
 -   [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 
 -   [Easy-TShark, A wireshark wrapper in C++](https://gitee.com/cdevelopment/easy-tshark.git)
 
-Hardware {#_hardware}
-========
+# Hardware {#_hardware}
 
-Utilities {#_utilities}
-=========
+# Utilities {#_utilities}
 
 -   Windows
 
@@ -533,11 +521,8 @@ Utilities {#_utilities}
 
         -   The Pokemon API
 
-Links {#_links}
-========
-
-Awesome Stuff {#_awesome_stuff}
--------------
+# Links {#_links}
+## Awesome Stuff {#_awesome_stuff}
 
 -   [avelino/Awesome Go](https://github.com/avelino/awesome-go)
 
@@ -553,13 +538,11 @@ Awesome Stuff {#_awesome_stuff}
 
 -   [Awsome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
-Downloads {#_downloads}
---------
+## Downloads {#_downloads}
 
 -   [Software Downloads](https://www.fileeagle.com/software)
 
-eBooks {#_ebooks}
---------
+## eBooks {#_ebooks}
 
 -   EvanLi
 
@@ -567,8 +550,7 @@ eBooks {#_ebooks}
 
     -   [EvanLi/programming-book-2](https://github.com/EvanLi/programming-book-2)
 
-YouTube Channels {#_youtube_channels}
---------
+## YouTube Channels {#_youtube_channels}
 
 -   [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos)
 
