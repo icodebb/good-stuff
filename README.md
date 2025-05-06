@@ -4,7 +4,7 @@ Software {#_software}
 ========
 
 IDE and Editor {#_ide_and_editor}
---------------
+--------
 
 ### VS Code {#_vs_code}
 
@@ -138,7 +138,7 @@ Eclipse + Cpp plug-in.
 -   [ReText](https://github.com/retext-project/retext) Simple and lightweight viewer for Ubuntu Linux.
 
 Programming {#_programming}
------------
+--------
 
 ### General {#_general}
 
@@ -274,7 +274,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
     -   [An 8-bit micro-controller but it has a garbage collector](https://www.youtube.com/watch?v=75VGzwtmgXc)
 
 Repositories(github.com) {#_repositoriesgithub_com}
-------------------------
+--------
 
 ### Documentation {#_documentation}
 
@@ -388,12 +388,12 @@ Hacking {#_hacking}
     -   [THC Archive](https://github.com/hackerschoice/THC-Archive)
 
 Docker {#_docker}
-------
+--------
 
 -   [docker/doodle](https://github.com/docker/doodle.git)
 
 Version Control {#_version_control}
----------------
+--------
 
 -   GitLab/GitHub
 
@@ -407,7 +407,7 @@ Embedded {#_embedded}
 ========
 
 RTOS {#_rtos}
-----
+--------
 
 -   [RealTimeLogic](https://realtimelogic.com/)
     Real Time Logic is an IoT security and web-enablement specialist helping customers develop world class products. [Repo on GitHub](https://github.com/RealTimeLogic)
@@ -534,7 +534,7 @@ Utilities {#_utilities}
         -   The Pokemon API
 
 Links {#_links}
-=====
+========
 
 Awesome Stuff {#_awesome_stuff}
 -------------
@@ -554,12 +554,12 @@ Awesome Stuff {#_awesome_stuff}
 -   [Awsome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
 Downloads {#_downloads}
----------
+--------
 
 -   [Software Downloads](https://www.fileeagle.com/software)
 
 eBooks {#_ebooks}
-------
+--------
 
 -   EvanLi
 
@@ -568,7 +568,7 @@ eBooks {#_ebooks}
     -   [EvanLi/programming-book-2](https://github.com/EvanLi/programming-book-2)
 
 YouTube Channels {#_youtube_channels}
-----------------
+--------
 
 -   [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos)
 
