@@ -1,12 +1,12 @@
 Thanks for the great work.
 
-# Software {#_software}
+# Software
 
-## IDE and Editor {#_ide_and_editor}
+## IDE and Editor
 
-### VS Code {#_vs_code}
+### VS Code
 
-#### Pros & Cons {#_pros_cons}
+#### Pros & Cons
 
 -   Pros
 
@@ -14,7 +14,7 @@ Thanks for the great work.
 
     -   Not much settings used as C Editor
 
-### PyCharm {#_pycharm}
+### PyCharm
 
 -   Pros
 
@@ -22,7 +22,7 @@ Thanks for the great work.
 
     -   Great Markdown editor with `Markdown Split Editor` and `Markdown Editor` modes.
 
-### Kdevelop {#_kdevelop}
+### Kdevelop
 
 -   Pros
 
@@ -36,7 +36,7 @@ Thanks for the great work.
 
     -   `Search in files` doesn't work on Linux with remote X if project path is too deep e.g. in a bitbake sandbox tmp folder.
 
-### AsciidocFX {#_asciidocfx}
+### AsciidocFX
 
 -   Great for PlantUML and other Diagrams.
 
@@ -44,7 +44,7 @@ Thanks for the great work.
 
 -   Good group feature.
 
-### Sublime Text {#_sublime_text}
+### Sublime Text
 
 -   Pros
 
@@ -58,15 +58,15 @@ Thanks for the great work.
 
     -   No preview for AsciiDoc
 
-### gEdit {#_gedit}
+### gEdit
 
 -   [Asciidoc Highlight for gEdit](https://github.com/edusantana/asciidoc-highlight)
 
-### Cevelop {#_cevelop}
+### Cevelop
 
 Eclipse + Cpp plug-in.
 
-### CodeBlocks {#_codeblocks}
+### CodeBlocks
 
 -   Pros
 
@@ -76,11 +76,11 @@ Eclipse + Cpp plug-in.
 
     -   Matched words after selection not highlighted.
 
-### CodeLite {#_codelite}
+### CodeLite
 
 -   Good for C/C++.
 
-### IntelliJ IDEA Community {#_intellij_idea_community}
+### IntelliJ IDEA Community
 
 -   Pros
 
@@ -90,7 +90,7 @@ Eclipse + Cpp plug-in.
 
     -   The auto indent is a double-edged sword, you need to take care the \<li\>\<h2\>xx\</h3\>\</li\>, the \</li\> needs to be in a new line.
 
-### Phoenix Code {#_phoenix_code}
+### Phoenix Code
 
 -   Pros
 
@@ -112,30 +112,30 @@ Eclipse + Cpp plug-in.
 
     -   Extension installation doesn't work well
 
-### Netbeans {#_netbeans}
+### Netbeans
 
 -   Pros
 
     -   Hints for HTML
 
-### Notepad++ {#_notepad}
+### Notepad++
 
 -   [Asciidoc-highlight](https://github.com/edusantana/asciidoc-highlight?tab=readme-ov-file)
     Download XML, import, then restart.
 
-### Neovim {#_neovim}
+### Neovim
 
 -   [Top Neovim plug-ins for developers in 2022](https://hannadrehman.com/top-neovim-plugins-for-developers-in-2022)
 
-### Golang {#_golang}
+### Golang
 
 -   [Editors and IDEs for Go](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins)
 
-### Markdown {#_markdown}
+### Markdown
 
 -   [ReText](https://github.com/retext-project/retext) Simple and lightweight viewer for Ubuntu Linux.
 
-## Programming {#_programming}
+## Programming
 
 ### General {#_general}
 
@@ -145,7 +145,7 @@ Eclipse + Cpp plug-in.
 
 -   [Backend Developer Roadmap](https://roadmap.alexhyett.com/backend-developer-roadmap/) -  Nice Map
 
-### 10 GitHub Repositories for the Self-Taught Developer {#10_github_repositories_for_the_self_taught_developer}
+### 10 GitHub Repositories for the Self-Taught Developer 
 
 See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for-the-self-taught-developer-c8b69b052ba4)
 
@@ -166,15 +166,14 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
 -   [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 
--   [Public APIs](https://github.com/public-apis/public-apis) A
-    collective list of free APIs for use in software and web development.
+-   [Public APIs](https://github.com/public-apis/public-apis) A collective list of free APIs for use in software and web development.
 
 -   [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 
 -   [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
     A collection of inspiring lists, manuals, cheatsheet, blogs, hacks, one-liners, cli/web tools, and more.
 
-### C {#_c}
+### C
 
 #### Awesome C {#_awesome_c}
 
@@ -192,7 +191,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
 -   [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)
 
-### Python {#_python}
+### Python
 
 -   [Python Programming Guides and Tutorials](https://www.pythoncentral.io/)
 
@@ -200,7 +199,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
 -   [PEP 8 -- Style Guide for Python Code](https://peps.python.org/pep-0008/)
 
-### Go {#_go}
+### Go
 
 -   Tutorial
 
@@ -270,27 +269,19 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
     -   [An 8-bit micro-controller but it has a garbage collector](https://www.youtube.com/watch?v=75VGzwtmgXc)
 
-## Repositories(github.com) {#_repositoriesgithub_com}
+## Repositories(github.com)
+### Documentation
 
-### Documentation {#_documentation}
-
--   [How to Write Go Code](https://go.dev/doc/code)
-
-### HTMX {#_htmx}
-
+### HTMX
 -   [HTMX demo with a Go backend](https://github.com/bugbytes-io/htmx-go-demo/tree/1df93f925d27a5d6df862f7a498417fecefa96be)
 
-### niyumard {#_niyumard}
-
+### niyumard
 -   [Doom Emacs Cheatsheet](https://github.com/niyumard/Doom-Emacs-Cheat-Sheet)
 
-### james-stoup {#_james_stoup}
-
+### james-stoup
 -   [Emacs Org Mode Tutorial](https://github.com/james-stoup/emacs-org-mode-tutorial/tree/main)
 
-### Emacs from Scratch {#_emacs_from_scratch}
-
--   [Emacs from Scratch](https://github.com/daviwil/emacs-from-scratch)
+### Emacs from Scratch
 
     -   [How to Give Presentations with Org Mode](https://github.com/daviwil/emacs-from-scratch/blob/master/show-notes/Emacs-Tips-04.org)
 
@@ -298,15 +289,15 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
     -   [org-tree-slide repo](https://github.com/takaxp/org-tree-slide)
 
-### Chemacs2 {#_chemacs2}
+### Chemacs2
 
 [Chemacs 2 is an Emacs profile switcher, it makes it easy to run multiple Emacs configurations side by side.](https://github.com/plexus/chemacs2)
 
-### C++ {#_c_2}
+### C++
 
 -   [Quantum Leaps C++](https://www.state-machine.com/qpcpp/)
 
-### Web {#_web}
+### Web
 
 -   [Font Awesome](https://khan.github.io/Font-Awesome/) gives you scalable vector icons that can instantly be customized --- size, color, drop shadow, and anything that can be done with the power of CSS.
 
@@ -329,11 +320,11 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 -   [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter)
     stopped developing, last release on Feb 12, 2016
 
-### [Awesome WebSockets](https://github.com/facundofarias/awesome-websockets) {#_awesome_websockets}
+### [Awesome WebSockets](https://github.com/facundofarias/awesome-websockets)
 
-### [Awesome HTMX](https://github.com/rajasegar/awesome-htmx) {#_awesome_htmx}
+### [Awesome HTMX](https://github.com/rajasegar/awesome-htmx)
 
-### Utils {#_utils}
+### Utils
 
 -   [Reveal.js converter for Asciidoctor](https://github.com/asciidoctor/asciidoctor-reveal.js/)
 
@@ -372,7 +363,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
         -   Highlight lines.
 
-## Hacking {#_hacking}
+## Hacking
 
 -   [The Hacker's Choice](https://www.thc.org/)
 
@@ -382,11 +373,11 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
     -   [THC Archive](https://github.com/hackerschoice/THC-Archive)
 
-## Docker {#_docker}
+## Docker 
 
 -   [docker/doodle](https://github.com/docker/doodle.git)
 
-## Version Control {#_version_control}
+## Version Control
 
 -   GitLab/GitHub
 
@@ -396,22 +387,22 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
     -   [Git Cola](https://git-cola.github.io/downloads.html)
 
-# Embedded {#_embedded}
+# Embedded
 
-## RTOS {#_rtos}
+## RTOS
 
 -   [RealTimeLogic](https://realtimelogic.com/)
     Real Time Logic is an IoT security and web-enablement specialist helping customers develop world class products. [Repo on GitHub](https://github.com/RealTimeLogic)
 
-# Network {#_network}
+# Network
 
 -   [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
 
 -   [Easy-TShark, A wireshark wrapper in C++](https://gitee.com/cdevelopment/easy-tshark.git)
 
-# Hardware {#_hardware}
+# Hardware
 
-# Utilities {#_utilities}
+# Utilities
 
 -   Windows
 
@@ -521,8 +512,8 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
         -   The Pokemon API
 
-# Links {#_links}
-## Awesome Stuff {#_awesome_stuff}
+# Links
+## Awesome Stuff
 
 -   [avelino/Awesome Go](https://github.com/avelino/awesome-go)
 
@@ -538,11 +529,10 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
 -   [Awsome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
-## Downloads {#_downloads}
+## Downloads
 
 -   [Software Downloads](https://www.fileeagle.com/software)
-
-## eBooks {#_ebooks}
+## eBooks
 
 -   EvanLi
 
@@ -550,7 +540,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
     -   [EvanLi/programming-book-2](https://github.com/EvanLi/programming-book-2)
 
-## YouTube Channels {#_youtube_channels}
+## YouTube Channels
 
 -   [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos)
 
