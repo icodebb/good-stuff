@@ -165,6 +165,7 @@ https://betterprogramming.pub/10-github-repositories-for-the-self-taught-develop
   ** https://github.com/quii/learn-go-with-tests[Learn Go with Tests]
   ** https://github.com/niyumard/learn-go-with-tests[Learn Go with Tests](forked)
   ** https://github.com/golang/go[Go's Source Code]
+  ** https://codefinity.com/blog/Golang-10-Best-Practices[Golang 10 Best Practices]
 * gRPC
   ** https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html[Python and Go : Part I - gRPC]
 * Awesome Series
