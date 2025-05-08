@@ -290,7 +290,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
     -   [thc on GitHub](https://github.com/vanhauser-thc)
     -   [THC Archive](https://github.com/hackerschoice/THC-Archive)
 
-## Docker 
+## Docker
 
 -   [docker/doodle](https://github.com/docker/doodle.git)
 
