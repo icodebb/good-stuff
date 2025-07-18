@@ -1,4 +1,4 @@
-Generic AI Tools {#_generic_ai_tools}
+Generic AI Tools
 ================
 
 -   [Microsoft AI Tools](https://www.microsoft.com/en-us/ai/tools)
@@ -11,7 +11,7 @@ Generic AI Tools {#_generic_ai_tools}
 
 -   [Hugging Face](https://huggingface.co/)
 
-AI Drawing {#_ai_drawing}
+AI Drawing
 ==========
 
 -   [Ideogram for generating pictures](https://ideogram.ai)
@@ -23,7 +23,7 @@ AI Drawing {#_ai_drawing}
 
 -   [OpenAI Character Creator](https://www.openai.com/blog/introducing-openai-character-creator/)
 
-AI Charts {#_ai_charts}
+AI Charts
 =========
 
 -   [Napkin.AI](https://napkin.ai/) Log in via my work gmail account.
@@ -35,15 +35,15 @@ AI Charts {#_ai_charts}
 
 -   [OpenAI Diagram Tool](https://www.openai.com/blog/introducing-openai-diagram-tool/)
 
-Programming {#_programming}
+Programming
 ===========
 
-IDE Extensions {#_ide_extensions}
+IDE Extensions
 --------------
 
 -   Gemini Code Assist
 
-Links {#_links}
+Links
 =====
 
 -   [The best AI for Coding in 2025](https://www.zdnet.com/article/the-best-ai-for-coding-in-2025-including-two-new-top-picks-and-what-not-to-use/)
