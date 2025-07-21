@@ -1,5 +1,3 @@
-Thanks for the great work.
-
 # Software
 
 ## IDE and Editor
@@ -212,6 +210,15 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
   - [sigfault playlist](https://www.youtube.com/watch?v=WNI8uKBE-zs&list=PLBan2kCeFnBosc-AMMGXLXPKYDTA-7t_a)
   - [An 8-bit micro-controller but it has a garbage collector](https://www.youtube.com/watch?v=75VGzwtmgXc)
+  - [I Solved 300 LeetCode Problems And This Is What I Learned...](https://www.youtube.com/watch?v=HWRZRfmrxRc)
+    - Abdul Bari YouTuber
+    - Michael Sambol YouTuber
+    - Visualgo.net
+    - neetcode.io
+    - algo.monster
+    - usemassive.com
+    - links.zerotomastery.io
+    - [NeetCode Blind 75 Cheat Sheet](https://docs.google.com/document/d/1R0u2CjIZakA-FiY4cMuOyRvxpSLLEiQyyCcm-JHjzOw/edit?pli=1&tab=t.0#heading=h.sbx2bxiofskr)
 
 ## Repositories(github.com)
 
