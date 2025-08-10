@@ -107,7 +107,7 @@ Eclipse + Cpp plug-in.
 
 ## Programming
 
-### General {#_general}
+### General
 
 - [PegasusWang 的读书杂记](https://pegasuswang.readthedocs.io/zh/latest/)
 
@@ -145,7 +145,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
 ### C
 
-#### Awesome C {#_awesome_c}
+#### Awesome C
 
 - [mazurov/awesome-c](https://notabug.org/mazurov/awesome-c)
 
@@ -155,7 +155,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
 - [bfgeshka/awesome-c](https://notabug.org/bfgeshka/awesome-c)
 
-#### TutorialsPoint {#_tutorialspoint}
+#### TutorialsPoint
 
 - [C Standard Library](https://www.tutorialspoint.com/c_standard_library/index.htm)
 
