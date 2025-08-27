@@ -6,7 +6,11 @@
 
 - [PegasusWang 的读书杂记](https://pegasuswang.readthedocs.io/zh/latest/)
 - [Happy Codings](https://happycodings.com/)
-- [Backend Developer Roadmap](https://roadmap.alexhyett.com/backend-developer-roadmap/) -  Nice Map
+- [Backend Developer Roadmap](https://roadmap.alexhyett.com/backend-developer-roadmap/) -  Nice Maps For Different Languages
+- [practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning)
+- [codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.](https://github.com/codecrafters-io/build-your-own-x)
+- [jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
+- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
 
 ### 10 GitHub Repositories for the Self-Taught Developer 
 
