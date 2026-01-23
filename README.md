@@ -53,25 +53,22 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 #### Awesome C
 
 - [mazurov/awesome-c](https://notabug.org/mazurov/awesome-c)
-
 - [oz123/awesome-c](https://github.com/oz123/awesome-c)
-
 - [uhub/awesome-c](https://github.com/uhub/awesome-c)
-
 - [bfgeshka/awesome-c](https://notabug.org/bfgeshka/awesome-c)
 
-#### TutorialsPoint
+#### Tutorials Point
 
 - [C Standard Library](https://www.tutorialspoint.com/c_standard_library/index.htm)
-
 - [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)
 
+#### stb
+
+- [github.com/nothings/stb]([nothings/stb: stb single-file public domain libraries for C/C++](https://github.com/nothings/stb))  - single-file libraries for C/C++
 ### Python
 
 - [Python Programming Guides and Tutorials](https://www.pythoncentral.io/)
-
 - [Resources for Python Crash Course (1st edition), from No Starch Press](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
-
 - [PEP 8 -- Style Guide for Python Code](https://peps.python.org/pep-0008/)
 
 ### Go
