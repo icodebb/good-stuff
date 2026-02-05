@@ -4,6 +4,8 @@
 
 ### General
 
+- [EbookFoundation/free-programming-books: :books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)  
+  Thanks for the contribution! The search feature is great!
 - [PegasusWang 的读书杂记](https://pegasuswang.readthedocs.io/zh/latest/)
 - [Happy Codings](https://happycodings.com/)
 - [Backend Developer Roadmap](https://roadmap.alexhyett.com/backend-developer-roadmap/) -  Nice Maps For Different Languages
