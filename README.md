@@ -229,7 +229,6 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 # Network
 
 - [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)
-
 - [Easy-TShark, A wireshark wrapper in C++](https://gitee.com/cdevelopment/easy-tshark.git)
 
 # Hardware
@@ -313,17 +312,11 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 ## Awesome Stuff
 
 - [avelino/Awesome Go](https://github.com/avelino/awesome-go)
-
 - [uhub/Awesome Go](https://github.com/uhub/awesome-go)
-
 - [vintta/Awesome Python](https://github.com/vinta/awesome-python)
-
 - [oz123/Awesome C](https://github.com/oz123/awesome-c)
-
 - [uhub/Awesome C](https://github.com/uhub/awesome-c)
-
 - [fffaraz/Awesome C++](https://github.com/fffaraz/awesome-cpp)
-
 - [Awsome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 
 ## Downloads
@@ -340,19 +333,11 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 ## YouTube Channels
 
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos)
-
 - [Bro Code](https://www.youtube.com/@BroCodez/featured)
-
 - [freeCodCamp.org](https://www.youtube.com/@freecodecamp)
-
 - [Corey Schafer](https://www.youtube.com/@coreyms/featured) - mainly Python
-
 - [The Cherno](https://www.youtube.com/@TheCherno) - C++
-
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
-
 - [NeetCode.io](https://www.youtube.com/@NeetCode) - If you want to learn LeeCode.
-
 - [Mayuko](https://www.youtube.com/@hellomayuko)
-
 - [Mia N.](https://www.youtube.com/@miaa.mp4)
