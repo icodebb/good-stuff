@@ -318,6 +318,9 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 - [uhub/Awesome C](https://github.com/uhub/awesome-c)
 - [fffaraz/Awesome C++](https://github.com/fffaraz/awesome-cpp)
 - [Awsome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - Awesome Tools
+- [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - Awesome tmux
+- [tsunejui/awesome-tools](https://github.com/tsunejui/awesome-tools) - Another Awesome Tools
 
 ## Downloads
 
