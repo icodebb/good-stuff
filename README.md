@@ -311,6 +311,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
 ## Awesome Stuff
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome "sindresorhus/awesome")
 - [avelino/Awesome Go](https://github.com/avelino/awesome-go)
 - [uhub/Awesome Go](https://github.com/uhub/awesome-go)
 - [vintta/Awesome Python](https://github.com/vinta/awesome-python)
