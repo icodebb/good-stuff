@@ -335,6 +335,7 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
   - [EvanLi/programming-book](https://github.com/EvanLi/programming-book)
   - [EvanLi/programming-book-2](https://github.com/EvanLi/programming-book-2)
 - [mr-nsin/references](https://github.com/mr-nsin/references/tree/master)
+- [freecomputerbooks.com](https://freecomputerbooks.com/)
 ## YouTube Channels
 
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos)
