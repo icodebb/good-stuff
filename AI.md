@@ -1,5 +1,4 @@
-Generic AI Tools
-================
+## Generic AI Tools
 
 -  [Microsoft AI Tools](https://www.microsoft.com/en-us/ai/tools)
 -  [Google AI Hub](https://www.google.com/aihub/)
@@ -7,8 +6,7 @@ Generic AI Tools
 -  [DeepLearning.ai](https://deeplearning.ai/)
 -  [Hugging Face](https://huggingface.co/)
 
-AI Drawing
-==========
+## AI Drawing
 
 -  [Ideogram for generating pictures](https://ideogram.ai)
     Log in via gmail account.
@@ -16,8 +14,7 @@ AI Drawing
 -  [OpenAI Painting Tool](https://www.openai.com/blog/introducing-openai-painting-tool/)
 -  [OpenAI Character Creator](https://www.openai.com/blog/introducing-openai-character-creator/)
 
-AI Charts
-=========
+## AI Charts
 
 -  [Napkin.AI](https://napkin.ai/) Log in via my work gmail account.
     Installed App to my Windows laptop.
@@ -25,16 +22,17 @@ AI Charts
 -  [OpenAI Table Tool](https://www.openai.com/blog/introducing-openai-table-tool/)
 -  [OpenAI Diagram Tool](https://www.openai.com/blog/introducing-openai-diagram-tool/)
 
-Programming
-===========
+## Programming
 
-IDE Extensions
---------------
+### Repository
+
+- [claw-code (leaked)](https://github.com/ultraworkers/claw-code)
+
+### IDE Extensions
 
 -   Gemini Code Assist
 
-Links
-=====
+## Links
 
 -  [The best AI for Coding in 2025](https://www.zdnet.com/article/the-best-ai-for-coding-in-2025-including-two-new-top-picks-and-what-not-to-use/)
 -  [10 Amazing AI Apps for Coding](https://www.techinsights.com/blog/10-amazing-ai-apps-for-coding-and-productivity-review/)
