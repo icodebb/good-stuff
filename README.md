@@ -67,11 +67,14 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 #### stb
 
 - [github.com/nothings/stb]([nothings/stb: stb single-file public domain libraries for C/C++](https://github.com/nothings/stb))  - single-file libraries for C/C++
+
 ### Python
 
 - [Python Programming Guides and Tutorials](https://www.pythoncentral.io/)
 - [Resources for Python Crash Course (1st edition), from No Starch Press](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 - [PEP 8 -- Style Guide for Python Code](https://peps.python.org/pep-0008/)
+- [github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)
+- [github.com/gribouille/awesome-python](https://github.com/gribouille/awesome-python)
 
 ### Go
 
