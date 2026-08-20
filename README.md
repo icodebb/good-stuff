@@ -328,8 +328,14 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 
 ## Downloads
 
+### Software
+
 - [Software Downloads](https://www.fileeagle.com/software)
+
+### Wallpaper
+
 - [Wallpaper (dark) download](https://www.pexels.com/search/dark%20wallpaper/)
+- [Petit Minou Lighthouse in France · Free Stock Photo](https://www.pexels.com/photo/petit-minou-lighthouse-in-france-18925513/)
 
 ## eBooks
 
