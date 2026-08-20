@@ -259,6 +259,10 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 - Browsers
   - `Nyxt` [Nyxt](https://nyxt.atlas.engineer/) is fully hackable -  all of its source code can be introspected, modified, and tweaked to your exact specification.
 
+- TUIs
+  - [Awesome TUIs GitHub repository](https://github.com/rothgar/awesome-tuis)
+  - [https://awesometui.com/](https://awesometui.com/)
+
 - Unicode
   - [Unicode table](https://gist.github.com/ivandrofly/0fe20773bd712b303f78)
   - [List of Unicode Characters on Wikipedia](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
