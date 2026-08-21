@@ -339,7 +339,12 @@ See Original URL [Here](https://betterprogramming.pub/10-github-repositories-for
 ### Wallpaper
 
 - [Wallpaper (dark) download](https://www.pexels.com/search/dark%20wallpaper/)
-- [Petit Minou Lighthouse in France · Free Stock Photo](https://www.pexels.com/photo/petit-minou-lighthouse-in-france-18925513/)
+- Petit Minou Lighthouse in France
+  - [The one(6000x4000)](https://images.pexels.com/photos/18925513/pexels-photo-18925513/free-photo-of-petit-minou-lighthouse-in-france.jpeg)
+  - [1200](https://images.pexels.com/photos/18925511/pexels-photo-18925511.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200)
+  - [Cloud](https://wallpapercave.com/wp/wp10246807.jpg)
+  - [Free Stock Photo](https://www.pexels.com/photo/petit-minou-lighthouse-in-france-18925513/)
+- [Apple and Windows Fall](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ffjqza65cbjv31.png)
 
 ## eBooks
 
