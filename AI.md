@@ -26,7 +26,18 @@
 
 ### Repository
 
+#### Agent
+
 - [claw-code (leaked)](https://github.com/ultraworkers/claw-code)
+
+#### Python
+
+- [MCP Resources](https://github.com/cyanheads/model-context-protocol-resources/tree/main)
+- [Let's Learn MCP Python](https://github.com/microsoft/lets-learn-mcp-python)
+- [MCP PDF](https://github.com/rsp2k/mcp-pdf) - extracts content from PDFs using multiple libraries with automatic fallbacks
+- [MCP PDF Reader](https://github.com/labeveryday/mcp_pdf_reader)
+- [MCP Read PDF](https://github.com/michaelneale/mcp-read-pdf)
+- [Python-powered document processing MCP with MCP Apps — Process Excel, Word, PDF, PowerPoint documents](https://github.com/mcpc-tech/docsmith-mcp)
 
 ### IDE Extensions
 
